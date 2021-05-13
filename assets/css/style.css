@@ -94,7 +94,7 @@ h1, h2 {
 
 /* what is a dreamcatcher section */
 
-#dreamcatcher-what {
+#dreamc-what {
     height: 900px;
 }
 
@@ -113,7 +113,6 @@ h1, h2 {
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
 }
 
 .left-about-heading {
@@ -121,13 +120,14 @@ h1, h2 {
     float: right;
     line-height: 20px;
     clear: both;
-    margin-bottom: 60px;
+    margin-top: 80px;
+    margin-bottom: 20px;
     text-align: right;
 }
 
 .left-about-heading h2 {
-    font-size: 300%;
-    margin-bottom: 30px;
+    font-size: 200%;
+    margin-bottom: 20px;
     text-align: right;
 }
 
@@ -137,10 +137,31 @@ h1, h2 {
     line-height: 20px;
     clear: both;
     margin-bottom: 60px;
+    margin-top: 80px;
 }
 
 .right-about-heading h2 {
-    font-size: 300%;
-    margin-bottom: 30px;
+    font-size: 200%;
+    margin-bottom: 20px;
     text-align: left;
 }
+
+#origins {
+    text-align: center;
+    font-size: 300%;
+    margin-top: 50px;
+}
+
+#central-dreamc img {
+    height: 80%;
+    width: 80%;
+    border: burlywood;
+    border-style: solid;
+    border-width: 15px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
