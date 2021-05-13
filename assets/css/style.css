@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Sacramento&display=swap');
 
 * {
     margin: 0;
@@ -9,4 +9,17 @@
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
+    color: #3a3a3a;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Sacramento, sans-serif;
+    color: #252525;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
 }
