@@ -213,6 +213,10 @@ h3 {
     margin: 0 30px 20px 0;
 }
 
+.order-section select {
+    margin-right: 20px;
+}
+
 .button {
     background-color: #3a3a3a;
     color: #fff;
@@ -220,8 +224,9 @@ h3 {
     padding: 20px 10px;
     text-align: center;
     position: relative;
-    margin-left: auto 0;
+    margin-left: 40%;
     border-radius: 5%;
+    margin-top: 60px;
 }
 
 .button:hover {
