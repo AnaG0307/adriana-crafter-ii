@@ -20,25 +20,43 @@ This section is designed for easy use for the general public of all ages and con
 
 ### Landing Page Image
 
+The landing Page image is designed for any user to be able what is the website about and why the artist does what she do. It welcomes the user with one the the artist's works and 
+introduces them to what is the content about.
+
 [Back to Top](#AdrianaCrafter) 
 
 ### About Section
+
+The about section section includes a picture of a dreamcatcher and w little explanation of the meaning and why it is a special gift to make to the people you love, especially kids. It intriduces the user to the origins, meaning, bad dreams and good dreams.
 
 [Back to Top](#AdrianaCrafter) 
 
 ### Footer
 
+The footer is been kept as simple as possible with two main points:
+* Links to the artist's social media
+* A brief explanation of who the artist is
+
 [Back to Top](#AdrianaCrafter) 
 
 ### Gallery
+
+The gallery page is divided in two main sections:
+
+1. How dreamcatcher are made
+2. Actual images of the previous works of the artist
 
 [Back to Top](#AdrianaCrafter) 
 
 ### Create Your Order
 
+This page will allow the user to create their own order to the artist after getting insopiration from the gallery of images. It also provides prices information and the options available as well as what to expect once the order is been sent to the artist.
+
 [Back to Top](#AdrianaCrafter) 
 
 ### Contact
+
+The contact page allows the users to contact the artist with any question or request they might have. This section is more versatile and allows the user the express themselves more directly and on a personalised way.
 
 [Back to Top](#AdrianaCrafter) 
 
