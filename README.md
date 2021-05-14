@@ -1,4 +1,4 @@
-# Adriana Crafter
+# AdrianaCrafter
 
 ![Website home page screenshot](/assets/images/site-screenshot.png)
 
@@ -8,29 +8,59 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 
 ## Features
 
+This website is designed for potential customers in the local area of the artist who are looking to purchase a unique creation with a special meaning. The website also targets people interested on crafting and who wishes to purchase the artist work as well as networking.
+
+[Back to Top](#AdrianaCrafter) 
+
 ### Navigation Bar
+
+The navigation is featured in all the pages and allows the user to easily navigate and find what they are looking for. The menu is identical in all the pages and it includes links to the Home page, the Gallery, the Order form and the Contact page.
+
+This section is designed for easy use for the general public of all ages and conditions.
 
 ### Landing Page Image
 
+[Back to Top](#AdrianaCrafter) 
+
 ### About Section
+
+[Back to Top](#AdrianaCrafter) 
 
 ### Footer
 
+[Back to Top](#AdrianaCrafter) 
+
 ### Gallery
+
+[Back to Top](#AdrianaCrafter) 
 
 ### Create Your Order
 
+[Back to Top](#AdrianaCrafter) 
+
 ### Contact
+
+[Back to Top](#AdrianaCrafter) 
 
 ## Testing and Deployment
 
+[Back to Top](#AdrianaCrafter) 
+
 ### Validator Testing
+
+[Back to Top](#AdrianaCrafter) 
 
 ### Unfixed Bugs
 
+[Back to Top](#AdrianaCrafter) 
+
 ### Deployment
 
+[Back to Top](#AdrianaCrafter) 
+
 ## Credits
+
+[Back to Top](#AdrianaCrafter) 
 
 
 
