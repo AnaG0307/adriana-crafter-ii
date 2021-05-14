@@ -1,3 +1,24 @@
+#Adriana Crafter
+
+![Website home page screenshot](/assets/images/site-screenshot.png)
+
+##Introduction
+
+This website is been built for Adriana Crafter, a local craft artist in Vilafranca del Penedes a small city near Barcelona in Spain. The primary focus of the site is to showcase and sell the dreamcatchers the artist does under request or through inspiration. The website should support the artist to expand her web-presence and the knowledge of her work beyond her local area. The artist currently works as a secondary teacher in a school and would like to increase her presence on the internet and to allow potential customers to see her craft work and potentially buy. In addition to this, this is the first of five projects of the developer´s portfolio. This particular project is aimed to demonstrate the developer's understanding of HTML5 and CSS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome AnaG0307,
