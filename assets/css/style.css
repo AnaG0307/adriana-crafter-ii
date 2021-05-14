@@ -173,7 +173,7 @@ h3 {
 /* create your order section */
 
 #order-section {
-    height: 1000px;
+    height: 900px;
     width: 100%;
     background-color: #F2DEA2;
     position: absolute;
@@ -233,4 +233,12 @@ h3 {
     background-color: #fff;
     color: #3a3a3a;
     border: #3a3a3a solid 1px;
+}
+
+/* footer section */
+
+#footer-section {
+    height: 100px;
+    width: 100%;
+    z-index: +1;
 }
