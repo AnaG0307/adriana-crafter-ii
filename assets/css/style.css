@@ -59,6 +59,17 @@ h3 {
     border-bottom: 1px solid #3a3a3a;
 }
 
+/* section titles and text */
+
+.section-title {
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+    font-size: 200%;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin: auto;
+}
+
 /* hero image and cover text*/
 
 #cover-text, #cover-text h2 {
@@ -101,7 +112,7 @@ h3 {
 
 #dreamc-what {
     height: 900px;
-    background-color: #F2DEA2;
+    background-color: RGBA(242,222,162,.4);
     position: absolute;
 }
 
@@ -153,12 +164,6 @@ h3 {
     text-align: left;
 }
 
-.section-title {
-    text-align: center;
-    font-size: 300%;
-    margin-top: 100px;
-}
-
 #central-dreamc img {
     height: 60%;
     width: 60%;
@@ -176,15 +181,8 @@ h3 {
 #order-section {
     height: 900px;
     width: 100%;
-    background-color: #F2DEA2;
+    background-color: RGBA(242,222,162,.4);
     position: absolute;
-}
-
-#order-section h2 {
-    text-align: center;
-    font-size: 300%;
-    margin-top: 100px;
-    position: relative;
 }
 
 #order-section h3 {
