@@ -112,6 +112,7 @@ h3 {
 
 #dreamc-what {
     height: 900px;
+    width: 100%;
     background-color: RGBA(242,222,162,.4);
     position: absolute;
 }
@@ -235,6 +236,13 @@ h3 {
 }
 
 /* gallery page */
+
+#gallery-section {
+    height: 900px;
+    width: 100%;
+    background-color: RGBA(242,222,162,.4);
+    position: absolute; 
+}
 
 div.gallery {
     width: 100%;
