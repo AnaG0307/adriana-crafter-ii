@@ -75,7 +75,7 @@ h3 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* section titles and text */
+/* section, titles and text */
 
 .section-title {
     font-family: Montserrat, sans-serif;
@@ -84,6 +84,12 @@ h3 {
     padding-top: 100px;
     padding-bottom: 50px;
     margin: auto;
+}
+
+.section {
+    height: 900px;
+    width: 100%;
+    background-color: RGBA(242,222,162,.4);
 }
 
 /* hero image and cover text*/
@@ -123,12 +129,6 @@ h3 {
 }
 
 /* what is a dreamcatcher section */
-
-#dreamc-what {
-    height: 900px;
-    width: 100%;
-    background-color: RGBA(242,222,162,.4);
-}
 
 #left-about {
     padding-top: 30px;
@@ -190,15 +190,9 @@ h3 {
     margin-top: 80px;
 }
 
-/* create your order section */
+/* create your order and contact section */
 
-#order-section {
-    height: 900px;
-    width: 100%;
-    background-color: RGBA(242,222,162,.4);
-}
-
-#order-section h3 {
+.section h3 {
     margin-bottom: 10px;
     margin-top: 30px;
 }
@@ -225,7 +219,7 @@ h3 {
     margin: 0 30px 20px 0;
 }
 
-.order-section select {
+.section select {
     margin-right: 20px;
 }
 
@@ -248,12 +242,6 @@ h3 {
 }
 
 /* gallery page */
-
-#gallery-section {
-    height: 900px;
-    width: 100%;
-    background-color: RGBA(242,222,162,.4);
-}
 
 div.gallery {
     width: 100%;
@@ -279,8 +267,3 @@ div.gallery {
   }
 
   /* contact section */
-
-  #contact-section {
-    width: 100%;
-    background-color: RGBA(242,222,162,.4);
-  }
