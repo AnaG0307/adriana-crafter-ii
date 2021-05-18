@@ -17,15 +17,33 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    height: 100%;
 }
 
 .main {
     flex: 1;
 }
 
-.footer {
+#footer {
     flex: 1;
+    background-color: #F2DEA2;
+    width: 100%;
+    height: 50px;
+}
+
+#social-media {
+    width: 45%;
+    height: auto;
+    float: left;
+    padding: 1%;
+    text-align: center;
+    list-style-type: none;
+}
+
+#about-me {
+    width: 45%;
+    height: auto;
+    float: right;
+    padding: 1%;
 }
 
 /* headings and logo */
@@ -234,7 +252,7 @@ h3 {
     background-color: #3a3a3a;
     color: #fff;
     border: #fff solid 1px;
-    padding: 20px 10px;
+    padding: 20px 30px;
     text-align: center;
     position: relative;
     margin-left: 40%;
