@@ -6,13 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Buy home made dreamcatchers for your loved ones">
     <meta name="keywords" content="dreamcathers, home made, crafting, crafter, craft, gift">
-
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Adriana Crafter</title>
 </head>
 <body>
-    <div class="container">
-        <div class="main">
     <header>
         <a href="index.html">
             <h1 id="logo">Adriana crafter</h1>
@@ -20,7 +17,7 @@
         <nav>
             <ul id="menu">
                 <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="contact.html" class="active">Contact</a>
                 </li>
                 <li>
                     <a href="gallery.html">Gallery</a>
@@ -29,7 +26,7 @@
                     <a href="order.html">Order</a>
                 </li>
                 <li>
-                    <a href="index.html" class="active">Home</a> 
+                    <a href="index.html">Home</a> 
                 </li>
             </ul>
         </nav>
@@ -38,47 +35,24 @@
     <section id="hero-overflow">
         <div id="hero-image"></div>
         <div id="cover-text">
-            <h2>Unique creations for your special little ones</h2>
+            <h2>Contact</h2>
         </div>
     </section>
-    <!--what is a dreamcatcher section-->
-    <section id="dreamc-what">
-        <h2 class="section-title">What is a dreamcatcher?</h2>
-        <div id="left-about">
-            <div class="left-about-heading">
-                <h2>The origins</h2>
-                <p>
-                    The meaning of dreamcatchers and the beliefs surrounding their construction originate from Native American cultures. 
-                </p>
-            </div>
-            <div class="left-about-heading">
-                <h2>The meaning</h2>
-                <p>
-                    The dreamcatcher is a protective talisman that is used to protect people from nightmares and bad dreams. The charm was usually used for young children and hung above their cradles or beds.
-                </p>
-            </div>
-        </div>
-        <div id="right-about">
-            <div class="right-about-heading">
-                <h2>Good dreams</h2>
-                <p>
-                    Native American cultures believe that good and bad dreams fill the air at night. The dreamcatcher acts like a spider's web by trapping the bad dreams while allowing the good ones to filter through. 
-                </p>
-            </div>
-            <div class="right-about-heading">
-                <h2>Bad dreams</h2>
-                <p>
-                    The bad dreams caught in the web get destroyed when the sunlight of morning hits the dreamcatcher, while the good dreams filter down through the feathers and gently reach the sleeping person below.
-                </p>
-            </div>
-        </div>
-        <div id="center-about">
-                <div id="central-dreamc">
-                    <img src="assets/images/dreamcatcher35.jpg" alt="image of a blue, white and yellow dreamcatcher hanged on a wall">
-                </div>
-            </div>
+    <!--ccontact us form-->
+    <section id="contact-section">
+        <h2 class="section-title"> We´d love to hear from you! Do not hesitate to send a message in you have any queries, special request or would like to propose a collaboration. Just fill up the form below and we will answer back as soon as possible!</h2>
+        <form action="mailto:ana.genover@gmail.com">
+            <label for="fname">First name</label>
+            <input class="text-input" type="text" id="fname" placeholder="&nbsp;&nbsp;enter your name here..." required>
+            <label for="surname">Surname</label>
+            <input class="text-input" type="text" id="surname" placeholder="&nbsp;&nbsp;enter your surname here..." required>
+            <label for="email">Email</label>
+            <input class="text-input" type="email" id="email" placeholder="&nbsp;&nbsp;enter your email here..." required>
+            <label for="message">Message</label>
+            <input type="text" name="message" id="message" placeholder="&nbsp;&nbsp;enter your message here..." required>
+        </form>
+
     </section>
-    </div>
         <!--footer section-->
     <footer class="footer">
         <ul>
