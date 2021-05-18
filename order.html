@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,120 +11,135 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Adriana Crafter</title>
 </head>
+
 <body>
-    <header>
-        <a href="index.html">
-            <h1 id="logo">Adriana crafter</h1>
-        </a>
-        <nav>
-            <ul id="menu">
-                <li>
-                    <a href="contact.html">Contact</a>
-                </li>
-                <li>
-                    <a href="gallery.html">Gallery</a>
-                </li>
-                <li>
-                    <a href="order.html" class="active">Order</a>
-                </li>
-                <li>
-                    <a href="index.html">Home</a> 
-                </li>
-            </ul>
-        </nav>
-    </header>
-    <!--hero section-->
-    <section id="hero-overflow">
-        <div id="hero-image"></div>
-        <div id="cover-text">
-            <h2>Place your Order</h2>
+    <div class="container">
+        <div class="main">
+            <header>
+                <a href="index.html">
+                    <h1 id="logo">Adriana crafter</h1>
+                </a>
+                <nav>
+                    <ul id="menu">
+                        <li>
+                            <a href="contact.html">Contact</a>
+                        </li>
+                        <li>
+                            <a href="gallery.html">Gallery</a>
+                        </li>
+                        <li>
+                            <a href="order.html" class="active">Order</a>
+                        </li>
+                        <li>
+                            <a href="index.html">Home</a>
+                        </li>
+                    </ul>
+                </nav>
+            </header>
+            <!--hero section-->
+            <section id="hero-overflow">
+                <div id="hero-image"></div>
+                <div id="cover-text">
+                    <h2>Place your Order</h2>
+                </div>
+            </section>
+            <!--create your order section-->
+            <section class="section">
+                <h2 class="section-title">Create your Order</h2>
+                <form action="ana.genover@gmail.com" class="order-form">
+                    <h3>Step 1. Enter your personal information</h3>
+                    <label for="fname">First name</label>
+                    <input class="text-input" type="text" id="fname" placeholder="&nbsp;&nbsp;enter your name here..."
+                        required>
+                    <label for="surname">Surname</label>
+                    <input class="text-input" type="text" id="surname"
+                        placeholder="&nbsp;&nbsp;enter your surname here..." required>
+                    <label for="email">Email</label>
+                    <input class="text-input" type="email" id="email" placeholder="&nbsp;&nbsp;enter your email here..."
+                        required>
+                    <h3>Step 2. Choose the size (diameter)</h3>
+                    <label for="small">15 cm (15€)</label>
+                    <input class="radio-input" type="radio" name="size" id="small" required>
+                    <label for="medium">20 cm (20€)</label>
+                    <input class="radio-input" type="radio" name="size" id="medium" required>
+                    <label for="large">25 cm (25€)</label>
+                    <input class="radio-input" type="radio" name="size" id="large" required>
+                    <h3>Step 3. Choose your colors (up to 4 colors)</h3>
+                    <label for="color-1">Color 1</label>
+                    <select name="color-1" class="select-color" id="color-1">
+                        <option value="White">White</option>
+                        <option value="Yellow">Yellow</option>
+                        <option value="Orange">Orange</option>
+                        <option value="Red">Red</option>
+                        <option value="Green">Green</option>
+                        <option value="Blue">Blue</option>
+                        <option value="Brown">Brown</option>
+                        <option value="Black">Black</option>
+                    </select>
+                    <label for="color-2">Color 2</label>
+                    <select name="color-2" class="select-color" id="color-2">
+                        <option value="White">White</option>
+                        <option value="Yellow">Yellow</option>
+                        <option value="Orange">Orange</option>
+                        <option value="Red">Red</option>
+                        <option value="Green">Green</option>
+                        <option value="Blue">Blue</option>
+                        <option value="Brown">Brown</option>
+                        <option value="Black">Black</option>
+                    </select>
+                    <label for="color-3">Color 3</label>
+                    <select name="color-3" class="select-color" id="color-3">
+                        <option value="White">White</option>
+                        <option value="Yellow">Yellow</option>
+                        <option value="Orange">Orange</option>
+                        <option value="Red">Red</option>
+                        <option value="Green">Green</option>
+                        <option value="Blue">Blue</option>
+                        <option value="Brown">Brown</option>
+                        <option value="Black">Black</option>
+                    </select>
+                    <label for="color-4">Color 4</label>
+                    <select name="color-4" class="select-color" id="color-4">
+                        <option value="White">White</option>
+                        <option value="Yellow">Yellow</option>
+                        <option value="Orange">Orange</option>
+                        <option value="Red">Red</option>
+                        <option value="Green">Green</option>
+                        <option value="Blue">Blue</option>
+                        <option value="Brown">Brown</option>
+                        <option value="Black">Black</option>
+                    </select>
+                    <h3>Step 4. For extra 5€ choose a name (optional)</h3>
+                    <label for="name"></label>
+                    <input class="text-input" type="text" id="name"
+                        placeholder="&nbsp;&nbsp;enter the (optional) name of your choice here...">
+                    <input type="submit" class="button" value="Send Order">
+                </form>
+            </section>
+            <!--footer section-->
+            <footer id="footer">
+                <div id="footer-cont">
+                    <ul id="social-media">
+                        <li>
+                            <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+                        </li>
+                    </ul>
+                    <div id="about-me">
+                        <h3>About me:</h3>
+                        <p>I am an artist from Vilafranca del Penedes, a village near Barcelona in Spain. I am secondary
+                            school teacher and I love doing craft on my free time. I am currently doing and selling
+                            dreamcatchers on my local area and on demand. Doing craft keeps my creative mind busy and
+                            allows me to connect with amazing human beings</p>
+                    </div>
+                </div>
+            </footer>
         </div>
-    </section>
-    <!--create your order section-->
-    <section class="section">
-        <h2 class="section-title">Create your Order</h2>
-        <form action="ana.genover@gmail.com" class="order-form">
-            <h3>Step 1. Enter your personal information</h3>
-            <label for="fname">First name</label>
-            <input class="text-input" type="text" id="fname" placeholder="&nbsp;&nbsp;enter your name here..." required>
-            <label for="surname">Surname</label>
-            <input class="text-input" type="text" id="surname" placeholder="&nbsp;&nbsp;enter your surname here..." required>
-            <label for="email">Email</label>
-            <input class="text-input" type="email" id="email" placeholder="&nbsp;&nbsp;enter your email here..." required>
-            <h3>Step 2. Choose the size (diameter)</h3>
-            <label for="small">15 cm (15€)</label>
-            <input class="radio-input" type="radio" name="size" id="small" required>
-            <label for="medium">20 cm (20€)</label>
-            <input class="radio-input" type="radio" name="size" id="medium" required>
-            <label for="large">25 cm (25€)</label>
-            <input class="radio-input" type="radio" name="size" id="large" required>
-            <h3>Step 3. Choose your colors (up to 4 colors)</h3>
-            <label for="color-1">Color 1</label>
-            <select name="color-1" class="select-color" id="color-1">
-                <option value="White">White</option>
-                <option value="Yellow">Yellow</option>
-                <option value="Orange">Orange</option>
-                <option value="Red">Red</option>
-                <option value="Green">Green</option>
-                <option value="Blue">Blue</option>
-                <option value="Brown">Brown</option>
-                <option value="Black">Black</option>
-            </select>
-            <label for="color-2">Color 2</label>
-            <select name="color-2" class="select-color" id="color-2">
-                <option value="White">White</option>
-                <option value="Yellow">Yellow</option>
-                <option value="Orange">Orange</option>
-                <option value="Red">Red</option>
-                <option value="Green">Green</option>
-                <option value="Blue">Blue</option>
-                <option value="Brown">Brown</option>
-                <option value="Black">Black</option>
-            </select>
-            <label for="color-3">Color 3</label>
-            <select name="color-3" class="select-color" id="color-3">
-                <option value="White">White</option>
-                <option value="Yellow">Yellow</option>
-                <option value="Orange">Orange</option>
-                <option value="Red">Red</option>
-                <option value="Green">Green</option>
-                <option value="Blue">Blue</option>
-                <option value="Brown">Brown</option>
-                <option value="Black">Black</option>
-            </select>
-            <label for="color-4">Color 4</label>
-            <select name="color-4" class="select-color" id="color-4">
-                <option value="White">White</option>
-                <option value="Yellow">Yellow</option>
-                <option value="Orange">Orange</option>
-                <option value="Red">Red</option>
-                <option value="Green">Green</option>
-                <option value="Blue">Blue</option>
-                <option value="Brown">Brown</option>
-                <option value="Black">Black</option>
-            </select>
-            <h3>Step 4. For extra 5€ choose a name (optional)</h3>
-            <label for="name"></label>
-            <input class="text-input" type="text" id="name" placeholder="&nbsp;&nbsp;enter the (optional) name of your choice here...">
-            <input type="submit" class="button" value="Send Order">
-        </form>
-    </section>
-        <!--footer section-->
-        <footer>
-            <ul>
-                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-                 <li>
-                    <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                 </li>
-                 <li>
-                    <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
-                 </li>
-                 <li>
-                    <a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
-                 </li>
-            </ul>
-            <h3>About me:</h3>
-            <p>I am an artist from Vilafranca del Penedes, a village near Barcelona in Spain. I am secondary school teacher and I love doing craft on my free time. I am currently doing and selling dreamcatchers on my local area and on demand. Doing craft keeps my creative mind busy and allows me to connect with amazing human beings</p>
-        </footer>
 </body>
+
 </html>
