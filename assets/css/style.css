@@ -108,7 +108,14 @@ h3 {
 .section {
     height: auto;
     width: 100%;
+    padding-bottom: 75px;
     background-color: RGBA(242,222,162,.4);
+}
+
+#video-section {
+    height: auto;
+    width: 100%;
+    padding-bottom: 75px;
 }
 
 /* hero image and cover text*/
@@ -152,12 +159,14 @@ h3 {
 #left-about {
     padding-top: 10px;
     width: 33%;
+    height: auto;
     float: left;
 }
 
 #right-about {
     padding-top: 10px;
     width: 33%;
+    height: auto;
     float: right;
 }
 
@@ -171,7 +180,7 @@ h3 {
     float: right;
     line-height: 20px;
     clear: both;
-    margin-top: 100px;
+    margin-top: 75px;
     margin-bottom: 20px;
     text-align: right;
 }
@@ -187,8 +196,8 @@ h3 {
     float: left;
     line-height: 20px;
     clear: both;
-    margin-bottom: 60px;
-    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-top: 75px;
 }
 
 .right-about-heading h2 {
