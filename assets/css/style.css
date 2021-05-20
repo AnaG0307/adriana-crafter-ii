@@ -105,7 +105,7 @@ h3 {
 }
 
 .section {
-    height: 900px;
+    height: auto;
     width: 100%;
     background-color: RGBA(242,222,162,.4);
 }
