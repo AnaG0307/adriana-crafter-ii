@@ -137,7 +137,7 @@ h3 {
     position: absolute;
     text-align: center;
     transform: translate(-50%, -50%);
-    background-color: RGBA(127,144,151,0.6);
+    background-color: RGBA(191,189,184,0.8);
 }
 
 #cover-text-order {
@@ -152,7 +152,7 @@ h3 {
     position: absolute;
     text-align: center;
     transform: translate(-50%, -50%);
-    background-color: RGBA(191,189,184,0.6);
+    background-color: RGBA(191,189,184,0.8);
 }
 
 #cover-text-gallery {
@@ -167,7 +167,7 @@ h3 {
     position: absolute;
     text-align: center;
     transform: translate(-50%, -50%);
-    background-color: RGBA(34,115,46,0.6);
+    background-color: RGBA(191,189,184,0.8);
 }
 
 #cover-text-contact {
@@ -182,7 +182,7 @@ h3 {
     position: absolute;
     text-align: center;
     transform: translate(-50%, -50%);
-    background-color: rgba(136,194,242,0.62);
+    background-color: RGBA(191,189,184,0.8);
 }
 
 .hero-overflow {
