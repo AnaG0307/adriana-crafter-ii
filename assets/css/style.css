@@ -101,8 +101,7 @@ h3 {
     font-family: Montserrat, sans-serif;
     text-align: center;
     font-size: 200%;
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding: 75px;
     margin: auto;
 }
 
@@ -151,13 +150,13 @@ h3 {
 /* what is a dreamcatcher section */
 
 #left-about {
-    padding-top: 30px;
+    padding-top: 10px;
     width: 33%;
     float: left;
 }
 
 #right-about {
-    padding-top: 30px;
+    padding-top: 10px;
     width: 33%;
     float: right;
 }
