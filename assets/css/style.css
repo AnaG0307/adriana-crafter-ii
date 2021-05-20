@@ -126,18 +126,63 @@ h3 {
     color: #fff;
 }
 
-.cover-text {
-    font-size: 330%;
+#cover-text-home {
+    font-size: 230%;
     font-family: Sacramento, sans-serif;
-    width: 70%;
-    height: 200px;
-    padding-top: 40px;
+    width: fit-content;
+    height: fit-content;
+    padding-left: 30px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    background-color: RGBA(127,144,151,0.6);
+}
+
+#cover-text-order {
+    font-size: 230%;
+    font-family: Sacramento, sans-serif;
+    width: fit-content;
+    height: fit-content;
+    padding-top: 10px;
     padding-left: 10px;
     top: 50%;
     left: 50%;
     position: absolute;
     text-align: center;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%);
+    background-color: RGBA(191,189,184,0.6);
+}
+
+#cover-text-gallery {
+    font-size: 230%;
+    font-family: Sacramento, sans-serif;
+    width: fit-content;
+    height: fit-content;
+    padding-top: 10px;
+    padding-left: 10px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    background-color: RGBA(34,115,46,0.6);
+}
+
+#cover-text-contact {
+    font-size: 230%;
+    font-family: Sacramento, sans-serif;
+    width: fit-content;
+    height: fit-content;
+    padding-top: 10px;
+    padding-left: 10px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    background-color: rgba(136,194,242,0.62);
 }
 
 .hero-overflow {
