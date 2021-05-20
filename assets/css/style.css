@@ -21,6 +21,7 @@ body {
 
 .main {
     flex: 1;
+    background-color: #F2DEA2;
 }
 
 #footer {
@@ -109,13 +110,14 @@ h3 {
     height: auto;
     width: 100%;
     padding-bottom: 75px;
-    background-color: RGBA(242,222,162,.4);
+    background-color: white;
 }
 
 #video-section {
     height: auto;
     width: 100%;
     padding-bottom: 75px;
+    background-color: whitesmoke;
 }
 
 /* hero image and cover text*/
