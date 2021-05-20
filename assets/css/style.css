@@ -39,13 +39,6 @@ body {
     list-style-type: none;
 }
 
-#about-me {
-    width: 45%;
-    height: auto;
-    float: right;
-    padding: 1%;
-}
-
 /* headings and logo */
 
 h1, h2 {
@@ -207,6 +200,10 @@ h3 {
     margin-right: auto;
     margin-top: 80px;
 }
+
+/* About me and video section */
+
+
 
 /* create your order and contact section */
 
