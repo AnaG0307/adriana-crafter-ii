@@ -30,13 +30,22 @@ body {
     height: 50px;
 }
 
-#social-media {
+.social-media {
     width: 100%;
     height: auto;
-    float: left;
     padding: 1%;
     text-align: center;
     list-style-type: none;
+}
+
+.social-media > li {
+    display: inline;
+}
+
+.social-media i {
+    color: #3a3a3a;
+    padding: 50px;
+    font-size: 200%;
 }
 
 /* headings and logo */
