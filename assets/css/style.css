@@ -122,11 +122,11 @@ h3 {
 
 /* hero image and cover text*/
 
-#cover-text, #cover-text h2 {
+.cover-text, .cover-text h2 {
     color: #fff;
 }
 
-#cover-text {
+.cover-text {
     font-size: 330%;
     font-family: Sacramento, sans-serif;
     width: 70%;
@@ -140,14 +140,14 @@ h3 {
     transform: translate(-50%, -50%)
 }
 
-#hero-overflow {
+.hero-overflow {
     height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
-#hero-image {
+.hero-image {
     height: 600px;
     width: 100%;
     background-image: url(../images/dreamcatcher11.jpg);
@@ -155,6 +155,35 @@ h3 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.hero-image-order {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/dreamcatcher013.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-image-gallery {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/dreamcatcher015.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-image-contact {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/dreamcatcher019.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 
 /* what is a dreamcatcher section */
 
