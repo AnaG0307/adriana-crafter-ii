@@ -228,8 +228,6 @@ h3 {
     background-size: cover;
 }
 
-
-
 /* what is a dreamcatcher section */
 
 #left-about {
@@ -296,7 +294,23 @@ h3 {
 
 /* About me and video section */
 
+#video-section {
+    width: 100%;
+    height: fit-content;
+}
 
+#video-section p {
+    margin: auto;
+    margin-bottom: 40px;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+
+#video-section div {
+    text-align: center;
+    margin-bottom: 40px;
+}
 
 /* create your order and contact section */
 
