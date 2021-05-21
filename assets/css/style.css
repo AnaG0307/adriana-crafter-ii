@@ -20,7 +20,7 @@ body {
 }
 
 .main {
-    flex: 1;
+    flex: 0 1 100%;
     background-color: #F2DEA2;
 }
 
@@ -364,28 +364,6 @@ h3 {
 
 /* gallery page */
 
-div.gallery {
-    width: 100%;
-    margin: 15px;
-    margin-top: 20px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 400px;
-  }
-  
-  div.gallery:hover {
-    border:#3a3a3a solid 1px;
-  }
-  
-  div.gallery img {
-    width: 100%;
-    height: auto;
-  }
-  
-  div.desc {
-    padding: 15px;
-    text-align: center;
-  }
 
 /* footer */
 
