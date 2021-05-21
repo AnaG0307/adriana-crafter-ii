@@ -12,7 +12,7 @@ body {
     color: #3a3a3a;
 }
 
-/* footer */
+/* Flex */
 
 .container {
     display: flex;
@@ -22,31 +22,6 @@ body {
 .main {
     flex: 1;
     background-color: #F2DEA2;
-}
-
-#footer {
-    flex: 1;
-    background-color: #F2DEA2;
-    width: 100%;
-    height: 50px;
-}
-
-.social-media {
-    width: 100%;
-    height: auto;
-    padding: 1%;
-    text-align: center;
-    list-style-type: none;
-}
-
-.social-media > li {
-    display: inline;
-}
-
-.social-media i {
-    color: #3a3a3a;
-    padding: 50px;
-    font-size: 200%;
 }
 
 /* headings and logo */
@@ -412,4 +387,29 @@ div.gallery {
     text-align: center;
   }
 
-  /* contact section */
+/* footer */
+
+#footer {
+    flex: 1;
+    background-color: #F2DEA2;
+    width: 100%;
+    height: 50px;
+}
+
+.social-media {
+    width: 100%;
+    height: auto;
+    padding: 1%;
+    text-align: center;
+    list-style-type: none;
+}
+
+.social-media > li {
+    display: inline;
+}
+
+.social-media i {
+    color: #3a3a3a;
+    padding: 50px;
+    font-size: 200%;
+}
