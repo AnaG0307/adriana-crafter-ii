@@ -364,6 +364,63 @@ h3 {
 
 /* gallery page */
 
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+#img1 {
+    background-color: red;
+}
+
+#img2 {
+    background-color: aliceblue;
+    width: 100px;
+    height: 100px;
+}
+
+#img3 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+
+#img4 {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+#img5 {
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+}
+
+#flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#flex-container > * {
+    flex: 0 1 20%;
+}
 
 /* footer */
 
