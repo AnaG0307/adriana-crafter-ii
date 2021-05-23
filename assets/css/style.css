@@ -362,7 +362,7 @@ h3 {
     border: #3a3a3a solid 1px;
 }
 
-/* gallery page */
+/* gallery page, code from w3schools https://www.w3schools.com/css/css_image_gallery.asp */
 
 div.gallery {
     margin: 5px;
@@ -385,40 +385,12 @@ div.gallery {
     text-align: center;
   }
 
-#img1 {
-    background-color: red;
-}
-
-#img2 {
-    background-color: aliceblue;
-    width: 100px;
-    height: 100px;
-}
-
-#img3 {
-    background-color: black;
-    width: 100px;
-    height: 100px;
-}
-
-#img4 {
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-}
-
-#img5 {
-    background-color: coral;
-    width: 100px;
-    height: 100px;
-}
-
-#flex-container {
+#flex-gallery {
     display: flex;
     flex-wrap: wrap;
 }
 
-#flex-container > * {
+#flex-gallery > * {
     flex: 0 1 20%;
 }
 
