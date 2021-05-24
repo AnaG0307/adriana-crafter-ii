@@ -12,7 +12,7 @@ body {
     color: #3a3a3a;
 }
 
-/* Flex */
+/* flex for index.html and all */
 
 .container {
     display: flex;
@@ -22,6 +22,19 @@ body {
 .main {
     flex: 0 1 100%;
     background-color: #F2DEA2;
+}
+
+/* flex for gallery section */
+
+#flex-gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#flex-gallery > * {
+    flex: 0 1 15%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* headings and logo */
@@ -305,9 +318,13 @@ h3 {
 .order-form {
     position: relative;
     margin-top: 30px;
-    max-width: 600px;
+    max-width: 700px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.order-form div {
+    padding: 15px;
 }
 
 .order-form ::placeholder {
@@ -319,7 +336,7 @@ h3 {
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    padding: 10px;
+    padding: 0;
     border: 1px solid #3a3a3a;
     border-radius: 10px;
     display: block;
@@ -329,7 +346,7 @@ h3 {
     color: #3a3a3a;
     width: 100%;
     margin: 5px 0 20px 0;
-    padding: 10px;
+    padding: 0;
     border: 1px solid #3a3a3a;
     border-radius: 10px;
     display: block;
@@ -351,7 +368,6 @@ h3 {
     padding: 20px 30px;
     text-align: center;
     position: relative;
-    margin-left: 40%;
     border-radius: 10px;
     margin-top: 60px;
 }
@@ -360,6 +376,30 @@ h3 {
     background-color: #fff;
     color: #3a3a3a;
     border: #3a3a3a solid 1px;
+}
+
+#form-button {
+    text-align: center;
+}
+
+/* flex for order section */
+.form-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#form-flex > * {
+    flex: 1 1 100%;
+}
+
+#flex-order {
+
+    display: flex;
+    flex-direction: column;
+}
+
+#flex-order form {
+    flex: 0 1 100%;
 }
 
 /* gallery page, code from w3schools https://www.w3schools.com/css/css_image_gallery.asp */
@@ -384,17 +424,6 @@ div.gallery {
     padding: 15px;
     text-align: center;
   }
-
-#flex-gallery {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-#flex-gallery > * {
-    flex: 0 1 15%;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 /* footer */
 
