@@ -465,4 +465,8 @@ div.gallery {
     #logo {
         font-size: 200%;
     }
+
+    .form-flex {
+        flex-direction: column;
+    }
 }
