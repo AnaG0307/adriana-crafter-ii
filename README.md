@@ -14,24 +14,38 @@ This website is designed for potential customers in the local area of the artist
 
 ### Navigation Bar
 
+![Website navigation bar screenshot]
+
 The navigation is featured in all the pages and allows the user to easily navigate and find what they are looking for. The menu is identical in all the pages and it includes links to the Home page, the Gallery, the Order form and the Contact page.
 
 This section is designed for easy use for the general public of all ages and conditions.
 
 ### Landing Page Image
 
+![Website landing page image screenshot]
+
 The landing Page image is designed for any user to be able what is the website about and why the artist does what she do. It welcomes the user with one the the artist's works and 
 introduces them to what is the content about.
 
 [Back to Top](#AdrianaCrafter) 
 
-### About Section
+### Home Section
 
-The about section section includes a picture of a dreamcatcher and w little explanation of the meaning and why it is a special gift to make to the people you love, especially kids. It intriduces the user to the origins, meaning, bad dreams and good dreams.
+The Home section of the website is divided in two differents parts:
+
+![Website Home section 1/2 screenshot]
+
+The first part of the Home section includes a picture of a dreamcatcher and a little explanation of the meaning and why it is a special gift to make to the people you love, especially kids. It introduces the user to the origins, meaning, bad dreams and good dreams. This provides an extra value to the gift as it involves it is not only materialistic but a type of protection against nightmares.
+
+![Website Home section 2/2 screenshot]
+
+The second part of the Home section introduces who the artist is and how she works. A video of how she works is attached and linked to her Youtube channel for the users to be able to see a tutorial.
 
 [Back to Top](#AdrianaCrafter) 
 
 ### Footer
+
+![Website footer screenshot]
 
 The footer is been kept as simple as possible with two main points:
 * Links to the artist's social media
@@ -41,20 +55,23 @@ The footer is been kept as simple as possible with two main points:
 
 ### Gallery
 
-The gallery page is divided in two main sections:
+![Website gallery page screenshot]
 
-1. How dreamcatcher are made
-2. Actual images of the previous works of the artist
+The gallery page showcases all the orders and jobs already done by the artist. The user can see all the images in one same page and when clicking on a particular image this one opens in a new tab. Opening in a new tab offers the user a bigger view in more detail of the dreamcatchers and can inspire them when creating their own orders.
 
 [Back to Top](#AdrianaCrafter) 
 
 ### Create Your Order
+
+![Website Create Your Order page screenshot]
 
 This page will allow the user to create their own order to the artist after getting insopiration from the gallery of images. It also provides prices information and the options available as well as what to expect once the order is been sent to the artist.
 
 [Back to Top](#AdrianaCrafter) 
 
 ### Contact
+
+![Website Contact page screenshot]
 
 The contact page allows the users to contact the artist with any question or request they might have. This section is more versatile and allows the user the express themselves more directly and on a personalised way.
 
@@ -79,73 +96,3 @@ The contact page allows the users to contact the artist with any question or req
 ## Credits
 
 [Back to Top](#AdrianaCrafter) 
-
-
-
-
-
-
-
-
-
-
-
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Welcome AnaG0307,
-
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
-
-## Gitpod Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
