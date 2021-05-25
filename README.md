@@ -22,7 +22,7 @@ This section is designed for easy use for the general public of all ages and con
 
 ### Landing Page Image
 
-![Website landing page image screenshot]
+![Website landing page image screenshot] ()
 
 The landing Page image is designed for any user to be able what is the website about and why the artist does what she do. It welcomes the user with one the the artist's works and 
 introduces them to what is the content about.
