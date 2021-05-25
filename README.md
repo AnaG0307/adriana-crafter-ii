@@ -1,6 +1,6 @@
 # AdrianaCrafter
 
-![Website home page screenshot](/assets/images/site-screenshot.png)
+![Website home page screenshot](/assets/images/readme/index.screenshot.png)
 
 ## Introduction
 
