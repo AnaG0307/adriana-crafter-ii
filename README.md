@@ -14,7 +14,7 @@ This website is designed for potential customers in the local area of the artist
 
 ### Navigation Bar
 
-![Website navigation bar screenshot]
+![Website navigation bar screenshot] (../assets/images/readme/nav-bar.png)
 
 The navigation is featured in all the pages and allows the user to easily navigate and find what they are looking for. The menu is identical in all the pages and it includes links to the Home page, the Gallery, the Order form and the Contact page.
 
