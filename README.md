@@ -14,7 +14,7 @@ This website is designed for potential customers in the local area of the artist
 
 ### Navigation Bar
 
-![Website navigation bar screenshot](../assets/images/readme/nav-bar.png)
+![Website navigation bar screenshot](assets/images/readme/nav-bar.png)
 
 The navigation is featured in all the pages and allows the user to easily navigate and find what they are looking for. The menu is identical in all the pages and it includes links to the Home page, the Gallery, the Order form and the Contact page.
 
@@ -33,11 +33,11 @@ introduces them to what is the content about.
 
 The Home section of the website is divided in two differents parts:
 
-![Website Home section 1/2 screenshot]()
+![Website Home section 1/2 screenshot](assets/images/readme/home1.png)
 
 The first part of the Home section includes a picture of a dreamcatcher and a little explanation of the meaning and why it is a special gift to make to the people you love, especially kids. It introduces the user to the origins, meaning, bad dreams and good dreams. This provides an extra value to the gift as it involves it is not only materialistic but a type of protection against nightmares.
 
-![Website Home section 2/2 screenshot]
+![Website Home section 2/2 screenshot](assets/images/readme/home2.png)
 
 The second part of the Home section introduces who the artist is and how she works. A video of how she works is attached and linked to her Youtube channel for the users to be able to see a tutorial.
 
@@ -45,7 +45,7 @@ The second part of the Home section introduces who the artist is and how she wor
 
 ### Footer
 
-![Website footer screenshot]
+![Website footer screenshot](assets/images/readme/footer.png)
 
 The footer is been kept as simple as possible with two main points:
 * Links to the artist's social media
@@ -55,7 +55,7 @@ The footer is been kept as simple as possible with two main points:
 
 ### Gallery
 
-![Website gallery page screenshot]
+![Website gallery page screenshot](assets/images/readme/gallery.png)
 
 The gallery page showcases all the orders and jobs already done by the artist. The user can see all the images in one same page and when clicking on a particular image this one opens in a new tab. Opening in a new tab offers the user a bigger view in more detail of the dreamcatchers and can inspire them when creating their own orders.
 
@@ -63,7 +63,7 @@ The gallery page showcases all the orders and jobs already done by the artist. T
 
 ### Create Your Order
 
-![Website Create Your Order page screenshot]
+![Website Create Your Order page screenshot](assets/images/readme/order-form.png)
 
 This page will allow the user to create their own order to the artist after getting insopiration from the gallery of images. It also provides prices information and the options available as well as what to expect once the order is been sent to the artist.
 
@@ -71,7 +71,7 @@ This page will allow the user to create their own order to the artist after gett
 
 ### Contact
 
-![Website Contact page screenshot]
+![Website Contact page screenshot](assets/images/readme/contact.png)
 
 The contact page allows the users to contact the artist with any question or request they might have. This section is more versatile and allows the user the express themselves more directly and on a personalised way.
 
