@@ -1,6 +1,6 @@
 # AdrianaCrafter
 
-![Website home page screenshot](/assets/images/readme/index.screenshot.png)
+![Website home page screenshot](assets/images/readme/index.screenshot.png)
 
 ## Introduction
 
@@ -14,7 +14,7 @@ This website is designed for potential customers in the local area of the artist
 
 ### Navigation Bar
 
-![Website navigation bar screenshot] (../assets/images/readme/nav-bar.png)
+![Website navigation bar screenshot](../assets/images/readme/nav-bar.png)
 
 The navigation is featured in all the pages and allows the user to easily navigate and find what they are looking for. The menu is identical in all the pages and it includes links to the Home page, the Gallery, the Order form and the Contact page.
 
@@ -22,7 +22,7 @@ This section is designed for easy use for the general public of all ages and con
 
 ### Landing Page Image
 
-![Website landing page image screenshot] ()
+![Website landing page image screenshot](assets/images/readme/landing-img.png)
 
 The landing Page image is designed for any user to be able what is the website about and why the artist does what she do. It welcomes the user with one the the artist's works and 
 introduces them to what is the content about.
@@ -33,7 +33,7 @@ introduces them to what is the content about.
 
 The Home section of the website is divided in two differents parts:
 
-![Website Home section 1/2 screenshot]
+![Website Home section 1/2 screenshot]()
 
 The first part of the Home section includes a picture of a dreamcatcher and a little explanation of the meaning and why it is a special gift to make to the people you love, especially kids. It introduces the user to the origins, meaning, bad dreams and good dreams. This provides an extra value to the gift as it involves it is not only materialistic but a type of protection against nightmares.
 
