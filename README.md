@@ -8,12 +8,18 @@
 1. [Introduction](#Introduction)
 2. [Features](#Features)
 
-    i. [Navigation Bar](#NavigationBar)
-    ii. [Landing Page Image](#LandingPageImage)
-    iii. [Home Section](#HomeSection)
+    i. [Navigation Bar](#Navigation-Bar)
+
+    ii. [Landing Page Image](#Landing-Page-Image)
+
+    iii. [Home Section](#Home-Section)
+
     iv. [Footer](#Footer)
+
     v. [Gallery](#Gallery)
+
     vi. [Create your Order](#CreateYourOrder)
+
     vii. [Contact](#Contact)
 
 3. [Testing and Deployment](#TestingandDeployment)
