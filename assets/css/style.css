@@ -218,7 +218,7 @@ h3 {
     background-size: cover;
 }
 
-/* what is a dreamcatcher section */
+/* what is a dreamcatcher section, code taken from Code Institute learning materials  */
 
 #left-about {
     padding-top: 10px;
@@ -300,6 +300,12 @@ h3 {
 #video-section div {
     text-align: center;
     margin-bottom: 40px;
+}
+
+/* flex for sections in home page */
+
+.flex-section {
+    display: flex;
 }
 
 /* create your order and contact section */
@@ -468,5 +474,59 @@ div.gallery {
 
     .form-flex {
         flex-direction: column;
+    }
+
+    .flex-section {
+        flex-direction: column;
+        text-align: center;
+        width: 100%;
+    }
+
+    #left-about {
+        padding-top: 10px;
+        width: 100%;
+        text-align: center;
+    }
+    
+    #right-about {
+        padding-top: 10px;
+        width: 100%;
+        text-align: center;
+    }
+    
+    #center-about {
+        padding-top: 10px;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .left-about-heading {
+        width: 100%;
+        line-height: 20px;
+        clear: both;
+        margin-top: 75px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
+    .left-about-heading h2 {
+        font-size: 200%;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
+    .right-about-heading {
+        width: 100%;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 20px;
+        margin-top: 75px;
+        text-align: center;
+    }
+    
+    .right-about-heading h2 {
+        font-size: 200%;
+        margin-bottom: 20px;
+        text-align: center;
     }
 }
