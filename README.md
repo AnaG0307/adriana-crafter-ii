@@ -1,6 +1,14 @@
 # AdrianaCrafter
 
 ![Website home page screenshot](assets/images/readme/index-screenshot.png)
+[View the page on github here]
+
+##Table of Contents
+
+1. [Introduction](#Introduction)
+2. [Features](#Features)
+
+    i. [Navigation Bar](#NavigationBar) 
 
 ## Introduction
 
@@ -41,7 +49,6 @@ The first part of the Home section includes a picture of a dreamcatcher and a li
 ![Website Home section 1/2 screenshot](assets/images/readme/home1.png)
 
 2. Part two:
-
 The second part of the Home section introduces who the artist is and how she works. A video of how she works is attached and linked to her Youtube channel for the users to be able to see the tutorial or any other videos she might produce in the future.
 
 ![Website Home section 2/2 screenshot](assets/images/readme/home2.png)
