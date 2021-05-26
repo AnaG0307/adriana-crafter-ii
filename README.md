@@ -58,7 +58,7 @@ This section is designed for easy use for the general public of all ages and con
 
 [Back to Top](#AdrianaCrafter) 
 
-### Landing Page Image
+### [Landing Page Image](index.html)
 
 The Landing Page image is designed for any user to be able understand what is the website about and what the artist does. It welcomes the user with one the the artist's works and 
 introduces them to the content.
@@ -91,7 +91,7 @@ The footer is been kept as simple as possible with only the social links to the 
 
 [Back to Top](#AdrianaCrafter) 
 
-### Gallery
+### [Gallery](gallery.html)
 
 The gallery page showcases all the orders and jobs already done by the artist. The user can see all the images in one same page and when clicking on a particular image this one opens in a new tab. Opening in a new tab offers the user a bigger view in more detail of the dreamcatchers and can inspire them when creating their own orders.
 
@@ -99,7 +99,7 @@ The gallery page showcases all the orders and jobs already done by the artist. T
 
 [Back to Top](#AdrianaCrafter)
 
-### Create Your Order
+### [Create Your Order](order.html)
 
 This page will allow the user to create their own order to the artist after getting inspiration from the gallery of images. It also provides price information and the options available as well as what to expect once the order is been sent to the artist. Note that because there is no back end related to the website when sending the form there is no repsonse.
 
@@ -107,7 +107,7 @@ This page will allow the user to create their own order to the artist after gett
 
 [Back to Top](#AdrianaCrafter) 
 
-### Contact
+### [Contact](contact.html)
 
 The contact page allows the users to contact the artist with any question or request they might have. This section is more versatile and allows the user the express themselves more directly and on a more personalised way. Note that because there is no back end related to the website when sending the form there is no repsonse.
 

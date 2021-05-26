@@ -302,6 +302,10 @@ h3 {
     margin-bottom: 40px;
 }
 
+#tutorial {
+    border: 0;
+}
+
 /* flex for sections in home page */
 
 .flex-section {
