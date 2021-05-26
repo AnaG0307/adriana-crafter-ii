@@ -18,15 +18,19 @@
 
     v. [Gallery](#Gallery)
 
-    vi. [Create your Order](#CreateYourOrder)
+    vi. [Create your Order](#Create-Your-Order)
 
     vii. [Contact](#Contact)
 
-3. [Testing and Deployment](#TestingandDeployment)
+3. [Testing and Deployment](#Testing-and-Deployment)
 
-4. [Validator Testing](#ValidatorTesting)
+    i. [Testing](#testing)
 
-5. [Unfixed Bugs](#UnfixedBugs)
+    ii. [Deployment](#deployment)
+
+4. [Validator Testing](#Validator-Testing)
+
+5. [Unfixed Bugs](#Unfixed-Bugs)
 
 6. [Deployment](#Deployment)
 
@@ -112,6 +116,10 @@ The contact page allows the users to contact the artist with any question or req
 [Back to Top](#AdrianaCrafter) 
 
 ## Testing and Deployment
+
+### Testing
+
+### Deployment
 
 [Back to Top](#AdrianaCrafter) 
 
