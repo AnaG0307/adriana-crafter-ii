@@ -3,12 +3,30 @@
 ![Website home page screenshot](assets/images/readme/index-screenshot.png)
 [View the page on github here]
 
-##Table of Contents
+## Table of Contents
 
 1. [Introduction](#Introduction)
 2. [Features](#Features)
 
-    i. [Navigation Bar](#NavigationBar) 
+    i. [Navigation Bar](#NavigationBar)
+    ii. [Landing Page Image](#LandingPageImage)
+    iii. [Home Section](#HomeSection)
+    iv. [Footer](#Footer)
+    v. [Gallery](#Gallery)
+    vi. [Create your Order](#CreateYourOrder)
+    vii. [Contact](#Contact)
+
+3. [Testing and Deployment](#TestingandDeployment)
+
+4. [Validator Testing](#ValidatorTesting)
+
+5. [Unfixed Bugs](#UnfixedBugs)
+
+6. [Deployment](#Deployment)
+
+7. [Credits](#Credits)
+
+
 
 ## Introduction
 
