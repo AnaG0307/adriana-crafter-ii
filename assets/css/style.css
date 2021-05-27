@@ -348,7 +348,7 @@ h3 {
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    padding: 0;
+    padding: 10px;
     border: 1px solid #3a3a3a;
     border-radius: 10px;
     display: block;
@@ -370,7 +370,10 @@ h3 {
 }
 
 .section select {
-    margin-right: 20px;
+    margin-left: 5px;
+    margin-right: 10px;    
+    border: solid 1px #3a3a3a;
+    border-radius: 10px;
 }
 
 .button {
@@ -449,7 +452,6 @@ div.gallery {
 .social-media {
     width: 100%;
     height: auto;
-    padding: 1%;
     text-align: center;
     list-style-type: none;
 }
