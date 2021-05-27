@@ -92,7 +92,9 @@ h3 {
     font-family: Montserrat, sans-serif;
     text-align: center;
     font-size: 200%;
-    padding-top: 75px;
+    padding: 75px 0px;
+    width: 90%;
+    margin: auto;
 }
 
 .section {
@@ -505,8 +507,7 @@ div.gallery {
         margin-top: 75px;
         margin-bottom: 20px;
         text-align: center;
-        padding-left: 10px;
-        padding-right: 10px;
+        padding: 0 10px;
     }
     
     .left-about-heading h2 {
@@ -522,9 +523,7 @@ div.gallery {
         margin-top: 75px;
         margin-bottom: 20px;
         text-align: center;
-        padding-left: 10px;
-        padding-right: 10px;
-
+        padding: 0 10px;
     }
 
     .right-about-heading h2 {
