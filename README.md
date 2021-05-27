@@ -6,7 +6,18 @@
 ## Table of Contents
 
 1. [Introduction](#Introduction)
-2. [Features](#Features)
+
+2. [UX]
+
+    i. [Ideal User Demographic](#Ideal-User_Demographic)
+
+    ii. [User Stories](#User-Stories)
+
+    iii. [Development Planes](#Development-Planes)
+
+    iv. [Design](#Design)
+
+3. [Features](#Features)
 
     i. [Navigation Bar](#Navigation-Bar)
 
@@ -22,7 +33,7 @@
 
     vii. [Contact](#Contact)
 
-3. [Testing and Deployment](#Testing-and-Deployment)
+4. [Testing and Deployment](#Testing-and-Deployment)
 
     i. [Testing](#testing)
 
