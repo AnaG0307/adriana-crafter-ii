@@ -55,6 +55,21 @@ https://www.powwows.com/what-is-a-dream-catcher/s
 
 This website is been built for Adriana Crafter, a local craft artist in Vilafranca del Penedes a small city near Barcelona in Spain. The primary focus of the site is to showcase and sell the dreamcatchers the artist does under request or through inspiration. The website should support the artist to expand her web-presence and the knowledge of her work beyond her local area. The artist currently works as a secondary teacher in a school and would like to increase her presence on the internet and to allow potential customers to see her craft work and potentially buy. In addition to this, this is the first of five projects of the developer´s portfolio. This particular project is aimed to demonstrate the developer's understanding of HTML5 and CSS.
 
+## UX
+
+### Ideal User Demographic 
+#### The ideal user of this website is:
+- Current social media followers
+- Followers of similar craft artists
+- Other craft artists
+- Amateur craft community
+
+### User Stories
+#### New and potential users goals:
+
+
+
+
 ## Features
 
 This website is designed for potential customers in the local area of the artist who are looking to purchase a unique creation with a special meaning. The website also targets people interested on crafting and who wishes to purchase the artist work as well as networking.
