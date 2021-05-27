@@ -97,6 +97,15 @@ h3 {
     margin: auto;
 }
 
+.section-title-2 {
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+    font-size: 200%;
+    padding-top: 75px;
+    width: 90%;
+    margin: auto;
+}
+
 .section {
     height: auto;
     width: 100%;
@@ -591,4 +600,13 @@ div.gallery {
         padding: 75px 0px 0px 0px;
         width: 90%;
         margin: auto;
+    }
+    .section-title {
+        font-family: Montserrat, sans-serif;
+        text-align: center;
+        font-size: 200%;
+        padding: 75px 0px;
+        width: 90%;
+        margin: auto;
+    }
 }
