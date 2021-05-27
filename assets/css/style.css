@@ -322,7 +322,6 @@ h3 {
 .section h4 {
     text-align: center;
     font-family: Montserrat, sans-serif;
-    background-color: red;
 }
 
 .order-form {
@@ -465,6 +464,10 @@ div.gallery {
     font-size: 200%;
 }
 
+/* Media quesries */
+
+/* For screens smaller than 700px */
+
 @media (max-width: 700px) {
     #menu {
         font-size: 75%;
@@ -539,5 +542,13 @@ div.gallery {
     #video-section p {
         width: 80%;
         text-align: center;
+    }
+}
+
+/* For medium screens between 900px and 700px */
+
+@media (max-width: 900px) and (min-width: 700px) {
+    .main {
+        background-color: aqua;
     }
 }
