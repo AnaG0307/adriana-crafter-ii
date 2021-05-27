@@ -345,7 +345,7 @@ h3 {
 
 .text-input {
     color: #3a3a3a;
-    width: 100%;
+    width: 90%;
     height: 25px;
     margin: 5px 0 20px 0;
     padding: 10px;
@@ -478,10 +478,6 @@ div.gallery {
         font-size: 200%;
     }
 
-    .form-flex {
-        flex-direction: column;
-    }
-
     .flex-section {
         flex-direction: column;
         text-align: center;
@@ -544,8 +540,7 @@ div.gallery {
     }
 
     #video-section p {
-        width: 100%;
+        width: 80%;
         text-align: center;
-        margin: 10px;
     }
 }
