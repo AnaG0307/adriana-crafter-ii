@@ -55,6 +55,14 @@ h3 {
     margin-left: 30px;
 }
 
+#nav-bar {
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    background-color: #F2DEA2;
+    width: 100%;
+}
+
 /* navigation links, code taken from Code Institute learning materials https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/637be1a2e3b84b25aa33f3ab4d98603c/*/
 
 #menu {
