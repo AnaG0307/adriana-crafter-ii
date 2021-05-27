@@ -59,14 +59,40 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 
 ### Ideal User Demographic 
 #### The ideal user of this website is:
+- Potential followers
 - Current social media followers
-- Followers of similar craft artists
+- Followers of similar artists
 - Other craft artists
 - Amateur craft community
 
 ### User Stories
 #### New and potential users goals:
+1. As a new follower, I want to easily navigate through the website to find the information easily and in an intuitive way.
+2. As a new follower, I want to learn more about the artist, her background and what makes her craft unique.
+3. As a new follower, I want to easily navigate to the artist´s social media to find news about her recent works and communications.
+4. As a new follower, I want to easily access the artist's crafts done in the past.
+5. As a new follower, I want to easily create an order of my choice and inspiration.
+6. As a new follower, I want to easily contact the artist with any queries I might have about my order or any new collaboration, for example.
 
+#### Current Social Media Followers
+1. As a current social media follower, I want to be able to contact the artist easily with any queries I might have.
+2. As a current social media follower, I want to be able to be up to date with new creations from the artists.
+3. As a current social media follower, I want to see regular updates from the artist about her new discoveries, courses she might be doing, etc.
+4. As a current social media follower, I want to be able to enrich my inner world through art.
+
+
+#### Followers of Similar Artists
+1. As a follower of similar artists, I want to discover new tendencies.
+2. As a follower of similar artists, I want to be inspired by the creations of the artist.
+3. As a follower of similar artists, I want to learn new things through the artist's works.
+4. As a follower of similar artists, I want to 
+5. As a follower of similar artists, I want to
+
+#### Other Craft Artists
+1. As an other craft artists, I want to 
+
+#### Amateur Craft Community
+1. As part of the amateur craft community, I want to 
 
 
 
