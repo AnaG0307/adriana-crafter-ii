@@ -449,8 +449,7 @@ div.gallery {
 
 #flex-gallery > * {
     flex: 0 0 250px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 15px auto;
 }
 
 /* footer */
@@ -558,6 +557,12 @@ div.gallery {
         width: 80%;
         text-align: center;
     }
+
+    #flex-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 15px;
+    }
 }
 
 /* For medium screens between 900px and 700px */
@@ -614,5 +619,20 @@ div.gallery {
         padding: 75px 0px;
         width: 90%;
         margin: auto;
+    }
+
+    #flex-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 15px;
+    }
+}
+
+@media (max-width: 1200px) and (min-width: 900px) {
+
+    #flex-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 15px;
     }
 }
