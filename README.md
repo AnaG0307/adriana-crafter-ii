@@ -1,6 +1,6 @@
 # AdrianaCrafter
 
-![Website home page screenshot](assets/images/readme/index-screenshot.png)
+![Website home page screenshot](assets/images/readme/Responsive.png)
 [View the page on github here]
 
 ## Table of Contents
@@ -35,6 +35,8 @@
 6. [Deployment](#Deployment)
 
 7. [Credits](#Credits)
+
+https://www.powwows.com/what-is-a-dream-catcher/s
 
 
 
