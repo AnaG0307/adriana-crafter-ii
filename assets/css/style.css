@@ -121,7 +121,7 @@ h3 {
     font-family: Sacramento, sans-serif;
     width: fit-content;
     height: fit-content;
-    padding-left: 30px;
+    padding: 10px 30px;
     top: 50%;
     left: 50%;
     position: absolute;
@@ -135,8 +135,7 @@ h3 {
     font-family: Sacramento, sans-serif;
     width: fit-content;
     height: fit-content;
-    padding-top: 10px;
-    padding-left: 10px;
+    padding: 10px 30px;
     top: 50%;
     left: 50%;
     position: absolute;
@@ -150,8 +149,7 @@ h3 {
     font-family: Sacramento, sans-serif;
     width: fit-content;
     height: fit-content;
-    padding-top: 10px;
-    padding-left: 10px;
+    padding: 10px 30px;
     top: 50%;
     left: 50%;
     position: absolute;
@@ -165,8 +163,7 @@ h3 {
     font-family: Sacramento, sans-serif;
     width: fit-content;
     height: fit-content;
-    padding-top: 10px;
-    padding-left: 10px;
+    padding: 10px 30px;
     top: 50%;
     left: 50%;
     position: absolute;
