@@ -468,7 +468,6 @@ div.gallery {
 
 @media (max-width: 700px) {
     #menu {
-        flex-direction: column;
         font-size: 75%;
         margin: 0;
         padding: 0;
