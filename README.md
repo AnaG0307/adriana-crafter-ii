@@ -140,17 +140,23 @@ In order to create a comprehensive and informative website, the developer worked
 
 In order to align the features defines in the strategy section, the scope was divided in two categories:
 
-- **Content Reuirements**
+- **Content Requirements**
+
 The user will be looking for:
     - General information about the product.
+    - See what previous works the artist has done.
     - Information about the artits.
     - A way to contact the artist directly.
     - A way to personalise and purchase the product.
     - New works/information about the artist works.
-
 - **Functionality Requirements**
+
 The user will be able to:
-    - 
+    - Easily navigate through the site.
+    - Easily purchase the product.
+    - Easily ask any enquiries.
+    - Easily find the different social platforms the artist uses.
+    - See previous works done by the artist.
 
 #### Structure
 
