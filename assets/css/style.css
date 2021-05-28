@@ -494,6 +494,10 @@ div.gallery {
     font-size: 200%;
 }
 
+.social-media a:hover {
+    font-size: 250%;
+}
+
 /* ---------- Media queries ---------- */
 
 /* Media queries for screens smaller than 700px */
