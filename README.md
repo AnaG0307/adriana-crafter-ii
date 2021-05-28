@@ -66,6 +66,8 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 
 [Back to Top](#AdrianaCrafter) 
 
+***
+
 ### User Stories
 #### New and potential users goals:
  As a new follower, I want to easily navigate through the website to find the information easily and in an intuitive way.
@@ -100,6 +102,8 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 - As part of the amateur craft community, I want to be able to contact and interact with other members of the community.
 
 [Back to Top](#AdrianaCrafter) 
+
+***
 
 ### Design Plane
 
@@ -257,9 +261,15 @@ This issues couldn't be fixed
 
 [Back to Top](#AdrianaCrafter) 
 
+***
+
 ### Technology Used
 
 [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln)
+
+[Back to Top](#AdrianaCrafter) 
+
+***
 
 ## Credits
 

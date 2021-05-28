@@ -326,7 +326,7 @@ h3 {
     padding: 0;
 }
 
-/* ---------- Create your Order and Contact Section ---------- */
+/* ---------- Create your Order and Contact Form Section ---------- */
 
 .section h3 {
     margin-bottom: 10px;
@@ -348,7 +348,8 @@ h3 {
 }
 
 .order-form div {
-    margin: 0 auto;}
+    margin: 0 auto;
+}
 
 .order-form ::placeholder {
     font-family: Montserrat, sans-serif
@@ -583,6 +584,13 @@ div.gallery {
         padding: 5px;
         text-align: center;
         font-size: 75%;
+    }
+
+    .order-form {
+        position: relative;
+        margin-top: 30px;
+        margin: 0 auto;
+        width: 90%;
     }
 }
 
