@@ -143,6 +143,7 @@ In order to align the features defines in the strategy section, the scope was di
 - **Content Requirements**
 
 The user will be looking for:
+
     - General information about the product.
     - See what previous works the artist has done.
     - Information about the artits.
@@ -152,6 +153,7 @@ The user will be looking for:
 - **Functionality Requirements**
 
 The user will be able to:
+
     - Easily navigate through the site.
     - Easily purchase the product.
     - Easily ask any enquiries.
@@ -159,6 +161,10 @@ The user will be able to:
     - See previous works done by the artist.
 
 #### Structure
+
+The website is been organised in a way the user can find the different sections in a strcutured but also relevant way. The results are as follows:
+
+![Website Structure](assets/images/readme/structure.png)
 
 #### Skeleton
 
