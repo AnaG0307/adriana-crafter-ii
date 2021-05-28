@@ -15,15 +15,15 @@
 
     iii. [Design Planes](#Design-Planes)
 
-       - [Strategy](#Strategy)
+    - Strategy
 
-       - [Scope](#Scope)
+    - Scope
 
-       - [Structure](#Structure) 
+    - Structure
 
-       - [Skeleton](#Skeleton)
+    - Skeleton
 
-       - [Surface](#Surface)
+    - Surface
 
 3. [Features](#Features)
 
@@ -75,41 +75,62 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 
 ### User Stories
 #### New and potential users goals:
-1. As a new follower, I want to easily navigate through the website to find the information easily and in an intuitive way.
-2. As a new follower, I want to learn more about the artist, her background and what makes her craft unique.
-3. As a new follower, I want to easily navigate to the artist´s social media to find news about her recent works and communications.
-4. As a new follower, I want to easily access the artist's crafts done in the past.
-5. As a new follower, I want to easily create an order of my choice and inspiration.
-6. As a new follower, I want to easily contact the artist with any queries I might have about my order or any new collaboration, for example.
+ As a new follower, I want to easily navigate through the website to find the information easily and in an intuitive way.
+- As a new follower, I want to learn more about the artist, her background and what makes her craft unique.
+- As a new follower, I want to easily navigate to the artist´s social media to find news about her recent works and communications.
+- As a new follower, I want to easily access the artist's crafts done in the past.
+- As a new follower, I want to easily create an order of my choice and inspiration.
+- As a new follower, I want to easily contact the artist with any queries I might have about my order or any new collaboration, for example.
 
 #### Current Social Media Followers
-1. As a current social media follower, I want to be able to contact the artist easily with any queries I might have.
-2. As a current social media follower, I want to be able to be up to date with new creations from the artists.
-3. As a current social media follower, I want to see regular updates from the artist about her new discoveries, courses she might be doing, etc.
-4. As a current social media follower, I want to be able to enrich my inner world through art.
+- As a current social media follower, I want to be able to contact the artist easily with any queries I might have.
+- As a current social media follower, I want to be able to be up to date with new creations from the artists.
+- As a current social media follower, I want to see regular updates from the artist about her new discoveries, courses she might be doing, etc.
+- As a current social media follower, I want to be able to enrich my inner world through art.
 
 #### Followers of Similar Artists
-1. As a follower of similar artists, I want to discover new tendencies.
-2. As a follower of similar artists, I want to be inspired by the creations of the artist.
-3. As a follower of similar artists, I want to learn new things through the artist's works.
-4. As a follower of similar artists, I want to 
-5. As a follower of similar artists, I want to
+- As a follower of similar artists, I want to discover new tendencies.
+- As a follower of similar artists, I want to be inspired by the creations of the artist.
+- As a follower of similar artists, I want to learn new things through the artist's works.
+- As a follower of similar artists, I want to discover other artists of the same or different disciplines.
 
 #### Other Craft Artists
-1. As an other craft artists, I want to 
-2. As an other craft artists, I want to 
-3. As an other craft artists, I want to 
-4. As an other craft artists, I want to 
+- As an other craft artists, I want to learn the techniques and influences of the artist.
+- As an other craft artists, I want to be able to get in touch with the artist.
+- As an other craft artists, I want to get regular updates of the artist's crafts.
+- As an other craft artists, I want to get inspired but the artist crafts.
 
 #### Amateur Craft Community
-1. As part of the amateur craft community, I want to 
-2. As part of the amateur craft community, I want to 
-3. As part of the amateur craft community, I want to 
-4. As part of the amateur craft community, I want to 
+- As part of the amateur craft community, I want to be able to learn how to craft.
+- As part of the amateur craft community, I want to get information about craft materials.
+- As part of the amateur craft community, I want to be able to contact and interact the artist to ask for advice.
+- As part of the amateur craft community, I want to be able to contact and interact with other members of the community.
 
 ### Design Plane
 
+In order to create a comprehensive and informative website, the developer worked with the artist to define what were the needs of the artist and the required functionality of the site. The users described above were taken into account.
+
 #### Strategy
+
+##### Who is this website for and what does it do?
+
+1. Demographics:
+    1. Current and new followers.
+    2. Mainly women aged between 30 and over.
+    3. People with the wish to make a special gift to their kids or their friend's kids.
+    4. People who wishes to learn how to craft.
+
+2. Functional Requirements:
+    1. Information is accessed easily and in an simple way.
+    2. The user can make an order.
+    3. The user can contact the artist.
+    4. Find the artist's on the different social platforms.
+
+3. Benefits for the artist:
+    1. Build an online presence.
+    2. Have all the information about the artist, her works and social media all in one place.
+    3. Be able to sell her products.
+    4. Be able to be contacted in an easy and simple way.
 
 #### Scope
 
