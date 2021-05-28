@@ -15,16 +15,6 @@
 
     iii. [Design Planes](#Design-Planes)
 
-    - Strategy
-
-    - Scope
-
-    - Structure
-
-    - Skeleton
-
-    - Surface
-
 3. [Features](#Features)
 
     i. [Navigation Bar](#Navigation-Bar)
@@ -110,7 +100,7 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 
 In order to create a comprehensive and informative website, the developer worked with the artist to define what were the needs of the artist and the required functionality of the site. The users described above were taken into account.
 
-#### Strategy
+#### **Strategy**
 
 ##### Who is this website for and what does it do?
 
@@ -136,7 +126,7 @@ In order to create a comprehensive and informative website, the developer worked
 
 ![Importance/Feasability Curve](assets/images/readme/strategy.png)
 
-#### Scope
+#### **Scope**
 
 In order to align the features defines in the strategy section, the scope was divided in two categories:
 
@@ -144,31 +134,51 @@ In order to align the features defines in the strategy section, the scope was di
 
 The user will be looking for:
 
-    - General information about the product.
-    - See what previous works the artist has done.
-    - Information about the artits.
-    - A way to contact the artist directly.
-    - A way to personalise and purchase the product.
-    - New works/information about the artist works.
+- General information about the product.
+- See what previous works the artist has done.
+- Information about the artits.
+- A way to contact the artist directly.
+- A way to personalise and purchase the product.
+- New works/information about the artist works.
 - **Functionality Requirements**
 
 The user will be able to:
 
-    - Easily navigate through the site.
-    - Easily purchase the product.
-    - Easily ask any enquiries.
-    - Easily find the different social platforms the artist uses.
-    - See previous works done by the artist.
+- Easily navigate through the site.
+- Easily purchase the product.
+- Easily ask any enquiries.
+- Easily find the different social platforms the artist uses.
+- See previous works done by the artist.
 
-#### Structure
+#### **Structure**
 
 The website is been organised in a way the user can find the different sections in a strcutured but also relevant way. The results are as follows:
 
 ![Website Structure](assets/images/readme/structure.png)
 
-#### Skeleton
+#### **Skeleton**
 
-#### Surface
+How is the information represented and how does the user find such information:
+
+- The Home page introduces the user to the meaning the dreamcatchers and their ortigins.
+- The navigation bar is clear and simple for the user to understand what they will find in each page.
+- The order page contains an easy to understand and fill up form to create orders.
+- The gallery page contains all the main works from the artist and a quick description of them.
+- The contact page is simple and quick to fill up.
+- The footer contains icons representing the different social media platforms used by the artist.
+- Wireframe mockups were created in [Figma](https://www.figma.com/file/4gvaJsObFnVYV8VWdcqqP2/Adriana-Crafter?node-id=0%3A1) to ensure the structure represented all the requirements described above.
+
+#### **Surface**
+
+The website needed a simple yet a fresh look that represents the personality of the artist but at the same time allowing the user to be able to easily navigate and find what they are looking for:
+
+- The main targeted user as described above will expect a simple, modern and clear features arranged in a way they can use and understand intuitively.
+
+- The colors used on the website is mainly the yellow already used on the logo created by the artist. This allows consistency as well.
+
+- The fonts chosen were Sacramento for the logo (as already designed by the artist) and Monsterrat for the rest of text, titles and buttons. This provided consistency as well. 
+
+- The navigation is been designed in am efficient way at the same time as providing functionality.
 
 [Back to Top](#AdrianaCrafter) 
 
