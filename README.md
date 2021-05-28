@@ -7,7 +7,7 @@
 
 1. [Introduction](#Introduction)
 
-2. [UX](UX)
+2. [UX](#UX)
 
     i. [Ideal User Demographic](#Ideal-User-Demographic)
 
@@ -39,9 +39,10 @@
 
 5. [Issues and Bugs](#Issues-and-Bugs)
 
-6. [Credits](#Credits)
+6. [Technology Used](#Technology-Used)
 
-https://www.powwows.com/what-is-a-dream-catcher/s
+7. [Credits](#Credits)
+
 
 
 
@@ -62,6 +63,8 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 - Followers of similar artists
 - Other craft artists
 - Amateur craft community
+
+[Back to Top](#AdrianaCrafter) 
 
 ### User Stories
 #### New and potential users goals:
@@ -95,6 +98,8 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 - As part of the amateur craft community, I want to get information about craft materials.
 - As part of the amateur craft community, I want to be able to contact and interact the artist to ask for advice.
 - As part of the amateur craft community, I want to be able to contact and interact with other members of the community.
+
+[Back to Top](#AdrianaCrafter) 
 
 ### Design Plane
 
@@ -194,14 +199,10 @@ The Navigation Bar is featured in all the pages and allows the user to easily na
 
 This section is designed for easy use for the general public of all ages and conditions.
 
-[Back to Top](#AdrianaCrafter) 
-
 ### [Landing Page Image](index.html)
 
 The Landing Page image is designed for any user to be able understand what is the website about and what the artist does. It welcomes the user with one the the artist's works and 
 introduces them to the content.
-
-[Back to Top](#AdrianaCrafter) 
 
 ### [Home Section](index.html)
 
@@ -213,29 +214,21 @@ The first part of the Home section includes a picture of a dreamcatcher and a li
 2. Part two:
 The second part of the Home section introduces who the artist is and how she works. A video of how she works is attached and linked to her Youtube channel for the users to be able to see the tutorial or any other videos she might produce in the future.
 
-[Back to Top](#AdrianaCrafter) 
-
 ### [Footer](index.html)
 
 The footer is been kept as simple as possible with only the social links to the artist´s different pages. It is featured at the bottom of all the pages for consistency and for the user to be able to access them quickly and easily.
-
-[Back to Top](#AdrianaCrafter) 
 
 ### [Gallery](gallery.html)
 
 The gallery page showcases all the orders and jobs already done by the artist. The user can see all the images in one same page and when clicking on a particular image this one opens in a new tab. Opening in a new tab offers the user a bigger view in more detail of the dreamcatchers and can inspire them when creating their own orders.
 
-[Back to Top](#AdrianaCrafter)
-
 ### [Create Your Order](order.html)
 
-This page will allow the user to create their own order to the artist after getting inspiration from the gallery of images. It also provides price information and the options available as well as what to expect once the order is been sent to the artist. Note that because there is no back end related to the website when sending the form there is no repsonse.
-
-[Back to Top](#AdrianaCrafter) 
+This page will allow the user to create their own order to the artist after getting inspiration from the gallery of images. It also provides price information and the options available as well as what to expect once the order is been sent to the artist. Note that because there is no back end related to the website when sending the form there is no repsonse and the page refreshes itself.
 
 ### [Contact](contact.html)
 
-The contact page allows the users to contact the artist with any question or request they might have. This section is more versatile and allows the user the express themselves more directly and on a more personalised way. Note that because there is no back end related to the website when sending the form there is no repsonse.
+The contact page allows the users to contact the artist with any question or request they might have. This section is more versatile and allows the user the express themselves more directly and on a more personalised way. Note that because there is no back end related to the website when sending the form there is no repsonse and the page refreshes itself.
 
 [Back to Top](#AdrianaCrafter) 
 
@@ -245,6 +238,8 @@ The contact page allows the users to contact the artist with any question or req
 
 ### Testing
 
+
+
 ### Deployment
 
 [Back to Top](#AdrianaCrafter) 
@@ -253,9 +248,22 @@ The contact page allows the users to contact the artist with any question or req
 
 ### Issues and Bugs
 
+When testing the website the developer realised the following:
+
+- The contact form had lost the padding on the left side and the form sticked to the left.
+- On the home page the What is a dreamcatcher section text was not aligned.
+
+This issues couldn't be fixed
+
 [Back to Top](#AdrianaCrafter) 
 
+### Technology Used
+
+[Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln)
+
 ## Credits
+
+https://www.powwows.com/what-is-a-dream-catcher/s
 
 [Back to Top](#AdrianaCrafter) 
 
