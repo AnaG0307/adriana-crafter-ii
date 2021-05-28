@@ -39,18 +39,17 @@
 
 5. [Issues and Bugs](#Issues-and-Bugs)
 
-6. [Technology Used](#Technology-Used)
+6. [Technologies Used](#Technologies-Used)
 
 7. [Credits](#Credits)
 
-
-
+***
 
 ## Introduction
 
 This website is been built for Adriana Crafter, a local craft artist in Vilafranca del Penedes a small city near Barcelona in Spain. The primary focus of the site is to showcase and sell the dreamcatchers the artist does under request or through inspiration. The website should support the artist to expand her web-presence and the knowledge of her work beyond her local area. The artist currently works as a secondary teacher in a school and would like to increase her presence on the internet and to allow potential customers to see her craft work and potentially buy. In addition to this, this is the first of five projects of the developer´s portfolio. This particular project is aimed to demonstrate the developer's understanding of HTML5 and CSS.
 
-[Back to Top](#AdrianaCrafter) 
+[Back to Top ⇧](#AdrianaCrafter) 
 
 ***
 
@@ -58,19 +57,19 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 
 ### Ideal User Demographic 
 #### The ideal user of this website is:
-- Potential followers
-- Current social media followers
-- Followers of similar artists
-- Other craft artists
-- Amateur craft community
+- Potential followers.
+- Current social media followers.
+- Followers of similar artists.
+- Other craft artists.
+- Amateur craft community.
 
-[Back to Top](#AdrianaCrafter) 
+[Back to Top ⇧](#AdrianaCrafter) 
 
 ***
 
 ### User Stories
 #### New and potential users goals:
- As a new follower, I want to easily navigate through the website to find the information easily and in an intuitive way.
+- As a new follower, I want to easily navigate through the website to find the information easily and in an intuitive way.
 - As a new follower, I want to learn more about the artist, her background and what makes her craft unique.
 - As a new follower, I want to easily navigate to the artist´s social media to find news about her recent works and communications.
 - As a new follower, I want to easily access the artist's crafts done in the past.
@@ -79,7 +78,7 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 
 #### Current Social Media Followers
 - As a current social media follower, I want to be able to contact the artist easily with any queries I might have.
-- As a current social media follower, I want to be able to be up to date with new creations from the artists.
+- As a current social media follower, I want to be able to be up to date with new creations from the artist.
 - As a current social media follower, I want to see regular updates from the artist about her new discoveries, courses she might be doing, etc.
 - As a current social media follower, I want to be able to enrich my inner world through art.
 
@@ -94,14 +93,15 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 - As an other craft artists, I want to be able to get in touch with the artist.
 - As an other craft artists, I want to get regular updates of the artist's crafts.
 - As an other craft artists, I want to get inspired but the artist crafts.
+- As an other craft artists, I want to network with the artist and her own network.
 
 #### Amateur Craft Community
 - As part of the amateur craft community, I want to be able to learn how to craft.
 - As part of the amateur craft community, I want to get information about craft materials.
-- As part of the amateur craft community, I want to be able to contact and interact the artist to ask for advice.
+- As part of the amateur craft community, I want to be able to contact and interact with the artist to ask for advice.
 - As part of the amateur craft community, I want to be able to contact and interact with other members of the community.
 
-[Back to Top](#AdrianaCrafter) 
+[Back to Top ⇧](#AdrianaCrafter) 
 
 ***
 
@@ -115,13 +115,13 @@ In order to create a comprehensive and informative website, the developer worked
 
 1. Demographics:
     1. Current and new followers.
-    2. Mainly women aged between 30 and over.
+    2. Mainly women aged between 25-30 years and over.
     3. People with the wish to make a special gift to their kids or their friend's kids.
     4. People who wishes to learn how to craft.
 
 2. Functional Requirements:
     1. Information is accessed easily and in an simple way.
-    2. The user can make an order.
+    2. The user can create an order and shop.
     3. The user can contact the artist.
     4. Find the artist's on the different social platforms.
 
@@ -137,7 +137,7 @@ In order to create a comprehensive and informative website, the developer worked
 
 #### **Scope**
 
-In order to align the features defines in the strategy section, the scope was divided in two categories:
+In order to align the features defined in the strategy section, the scope was divided in two categories:
 
 - **Content Requirements**
 
@@ -145,10 +145,10 @@ The user will be looking for:
 
 - General information about the product.
 - See what previous works the artist has done.
-- Information about the artits.
+- Information about the artitst.
 - A way to contact the artist directly.
 - A way to personalise and purchase the product.
-- New works/information about the artist works.
+- New works/information about the artist and her work.
 - **Functionality Requirements**
 
 The user will be able to:
@@ -169,27 +169,27 @@ The website is been organised in a way the user can find the different sections 
 
 How is the information represented and how does the user find such information:
 
-- The Home page introduces the user to the meaning the dreamcatchers and their ortigins.
+- The Home page introduces the user to the meaning of dreamcatchers and their origins.
 - The navigation bar is clear and simple for the user to understand what they will find in each page.
-- The order page contains an easy to understand and fill up form to create orders.
+- The order page contains a form easy to understand and fill up to create orders.
 - The gallery page contains all the main works from the artist and a quick description of them.
 - The contact page is simple and quick to fill up.
 - The footer contains icons representing the different social media platforms used by the artist.
-- Wireframe mockups were created in [Figma](https://www.figma.com/file/4gvaJsObFnVYV8VWdcqqP2/Adriana-Crafter?node-id=0%3A1) to ensure the structure represented all the requirements described above.
+- Wireframe mockups were created in [Figma](https://www.figma.com/file/4gvaJsObFnVYV8VWdcqqP2/Adriana-Crafter?node-id=0%3A1 "Link to Figma") to ensure the structure represented all the requirements described above (different versions were created).
 
 #### **Surface**
 
 The website needed a simple yet a fresh look that represents the personality of the artist but at the same time allowing the user to be able to easily navigate and find what they are looking for:
 
-- The main targeted user as described above will expect a simple, modern and clear features arranged in a way they can use and understand intuitively.
+- The main targeted user as described above will expect simple, modern and clear features arranged in a way they can use and understand them intuitively.
 
 - The colors used on the website is mainly the yellow already used on the logo created by the artist. This allows consistency as well.
 
-- The fonts chosen were Sacramento for the logo (as already designed by the artist) and Monsterrat for the rest of text, titles and buttons. This provided consistency as well. 
+- The fonts chosen were Sacramento for the logo (as already used in the logo designed by the artist) and Monsterrat for the rest of text, titles and buttons. This provided consistency as well. 
 
-- The navigation is been designed in am efficient way at the same time as providing functionality.
+- The navigation is been designed in an efficient way at the same time as providing functionality.
 
-[Back to Top](#AdrianaCrafter) 
+[Back to Top ⇧](#AdrianaCrafter) 
 
 ***
 
@@ -199,13 +199,13 @@ This website is designed for potential customers in the local area of the artist
 
 ### [Navigation Bar](index.html)
 
-The Navigation Bar is featured in all the pages and allows the user to easily navigate and find what they are looking for. The menu is identical in all the pages and it includes links to the Home page, the Gallery, the Order form and the Contact page.
+The Navigation Bar is featured in all the pages and allows the user to easily navigate and find what they are looking for. The menu is identical in all the pages and it includes links to the Home page, the Gallery, the Order form page and the Contact page.
 
 This section is designed for easy use for the general public of all ages and conditions.
 
 ### [Landing Page Image](index.html)
 
-The Landing Page image is designed for any user to be able understand what is the website about and what the artist does. It welcomes the user with one the the artist's works and 
+The Landing Page image is designed for any user to be able understand what is the website about and what the artist does. It welcomes the user with one of the artist's works and 
 introduces them to the content.
 
 ### [Home Section](index.html)
@@ -216,11 +216,11 @@ The Home section of the website is divided in two differents parts:
 The first part of the Home section includes a picture of a dreamcatcher and a little explanation of the meaning and why it is a special gift to make to the people you love, especially kids. It introduces the user to the origins, meaning, bad dreams and good dreams. This provides an extra value to the gift as it involves it is not only materialistic but a type of protection against nightmares.
 
 2. Part two:
-The second part of the Home section introduces who the artist is and how she works. A video of how she works is attached and linked to her Youtube channel for the users to be able to see the tutorial or any other videos she might produce in the future.
+The second part of the Home section introduces to who the artist is and how she works. A video of how she works is attached and linked to her Youtube channel for the users to be able to see the tutorial or any other videos she might produce in the future.
 
 ### [Footer](index.html)
 
-The footer is been kept as simple as possible with only the social links to the artist´s different pages. It is featured at the bottom of all the pages for consistency and for the user to be able to access them quickly and easily.
+The footer is been kept as simple as possible with only the social media links to the artist´s different pages. It is featured at the bottom of all the pages for consistency and for the user to be able to access them quickly and easily.
 
 ### [Gallery](gallery.html)
 
@@ -228,13 +228,13 @@ The gallery page showcases all the orders and jobs already done by the artist. T
 
 ### [Create Your Order](order.html)
 
-This page will allow the user to create their own order to the artist after getting inspiration from the gallery of images. It also provides price information and the options available as well as what to expect once the order is been sent to the artist. Note that because there is no back end related to the website when sending the form there is no repsonse and the page refreshes itself.
+This page will allow the user to create their own order to the artist after getting inspiration from the gallery of images. It also provides price information and the options available as well as what to expect once the order is been sent to the artist. Note that because there is no back end related to the website, when sending the form there is no repsonse and the page refreshes itself.
 
 ### [Contact](contact.html)
 
-The contact page allows the users to contact the artist with any question or request they might have. This section is more versatile and allows the user the express themselves more directly and on a more personalised way. Note that because there is no back end related to the website when sending the form there is no repsonse and the page refreshes itself.
+The contact page allows the users to contact the artist with any question or requests they might have. This section is more versatile and allows the user to express themselves more directly and on a more personalised way. Note that because there is no back end related to the website when sending the form there is no repsonse and the page refreshes itself.
 
-[Back to Top](#AdrianaCrafter) 
+[Back to Top ⇧](#AdrianaCrafter) 
 
 ***
 
@@ -242,11 +242,22 @@ The contact page allows the users to contact the artist with any question or req
 
 ### Testing
 
+General testing [video on Youtube (external link)](https://www.youtube.com/watch?v=2ksSugzuVXw&list=PLbC7Bm_Rl5cs1FEHnFW7QnfA2k8t_7lSw&index=1 "Adriana Crafter general testing video"). The observations are as follows:
 
+- Links in the navigation bar worked fine and opened the correct page.
+- Links to social media platforms in all pages worked fine and opened in a separate tab.
+- Hover elements on all pages worked correctly (navigations bar, social media links, forms buttons and images from the gallery).
+- Video embeded from Youtube played fine and control buttons as well.
+- In the order and contact forms the information couldn't be sent if all the required information was not entered or not entered correctly (such as name, surname, email, message, colors and size).
+- The pages with a form refreshes themselves (no backend is present as explained above and this is expected to happen).
+- Images from the gallery are opening in a separate tab.
+- Navigation bar sticks to the top of the page when scrolling down.
+
+Responsiveness testing [video on Youtube (external link)](https://www.youtube.com/watch?v=SLc_xx3SDB0 "Adriana Crafter responsiveness testing video"). The observations are as follows:
 
 ### Deployment
 
-[Back to Top](#AdrianaCrafter) 
+[Back to Top ⇧](#AdrianaCrafter) 
 
 ***
 
@@ -254,26 +265,60 @@ The contact page allows the users to contact the artist with any question or req
 
 When testing the website the developer realised the following:
 
-- The contact form had lost the padding on the left side and the form sticked to the left.
-- On the home page the What is a dreamcatcher section text was not aligned.
+- On the home page the What is a dreamcatcher section text was not aligned (it slightly floated to the right and to the left)
+- In the order page, in "STEP.3" the options were not completely responsive to screens smaller than 700px.
 
-This issues couldn't be fixed
+This issues couldn't be fixed on time before project submission.
 
-[Back to Top](#AdrianaCrafter) 
+[Back to Top ⇧](#AdrianaCrafter) 
 
 ***
 
-### Technology Used
+## Technologies Used
 
-[Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln)
+### Main Languages Used
 
-[Back to Top](#AdrianaCrafter) 
+- CSS
+
+- HTML
+
+### Frameworks, Libraries and Programs Used
+
+- [Font Awesome](https://fontawesome.com/ "Link to FontAwesome") was used for the social media links on the footer of the page.
+- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln "link to Unicorn Revealer") was used to identify the overflows on the website.
+- [GitHub](https://github.com/ "Link to GitHub") was used to store the project.
+- [Figma](https://www.figma.com/ "Link to Figma homepage") was used to create the wireframes during the design phase of the project.
+- [Am I Responsive?](http://ami.responsivedesign.is/# "Link to Am I Responsive Homepage") was used to see responsive design throughout the process and to generate mockup imagery to be used on README file.
+- [Unsplash](https://unsplash.com/ "link to Unsplash") was used for the picture used in the Whats is A dreamcatcher section.
+
+[Back to Top ⇧](#AdrianaCrafter) 
 
 ***
 
 ## Credits
 
-https://www.powwows.com/what-is-a-dream-catcher/s
+### Code
 
-[Back to Top](#AdrianaCrafter) 
+The below sites were consulted by the developer to better understand HTML and CSS code. Any code used from those sites have been carefully referenced with the code.
 
+The sites consulted are:
+
+[w3Schools](https://www.w3schools.com/ "link to w3s")
+
+[CSS Tricks](https://css-tricks.com/ "link to CSS Tricks")
+
+[Stack Overflow](https://stackoverflow.com "link to Stack Overflow")
+
+### Media
+
+With the exception of the image sourced from [Unsplash](https://unsplash.com/ "link to Unsplash") the rest of the images and video were sourced by the artist from her own work.
+
+[Back to Top ⇧](#AdrianaCrafter) 
+
+### Acknowledgements
+
+- Thank you to my firneds and family who patiently checked the website every time I requested them to do and provided the best feedback and support they could.
+- Thank you to my mentor, Seun, for her help and support through my first steps as a developer on my first project.
+- Thank you to Adriana, the artist, who was as excited as myself to go through the project and created all the images and videos to make the site complete.
+
+[Back to Top ⇧](#AdrianaCrafter) 
