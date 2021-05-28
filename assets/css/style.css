@@ -312,6 +312,8 @@ h3 {
 
 .flex-section {
     display: flex;
+    margin: 0;
+    padding: 0;
 }
 
 /* create your order and contact section */
