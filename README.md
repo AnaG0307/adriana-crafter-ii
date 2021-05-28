@@ -132,7 +132,25 @@ In order to create a comprehensive and informative website, the developer worked
     3. Be able to sell her products.
     4. Be able to be contacted in an easy and simple way.
 
+4. Importance/Feasability Curve
+
+![Importance/Feasability Curve](assets/images/readme/strategy.png)
+
 #### Scope
+
+In order to align the features defines in the strategy section, the scope was divided in two categories:
+
+- **Content Reuirements**
+The user will be looking for:
+    - General information about the product.
+    - Information about the artits.
+    - A way to contact the artist directly.
+    - A way to personalise and purchase the product.
+    - New works/information about the artist works.
+
+- **Functionality Requirements**
+The user will be able to:
+    - 
 
 #### Structure
 
