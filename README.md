@@ -31,9 +31,11 @@
 
     vii. [Contact](#Contact)
 
-4. [Testing and Deployment](#Testing-and-Deployment)
+4. [Testing, Validation and Deployment](#Testing-and-Deployment)
 
     i. [Testing](#testing)
+
+    ii. [Validation](#Validation)
 
     ii. [Deployment](#deployment)
 
@@ -101,7 +103,7 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 
 ***
 
-### Design Plane
+### Design Planes
 
 In order to create a comprehensive and informative website, the developer worked with the artist to define what were the needs of the artist and the required functionality of the site. The users described above were taken into account.
 
@@ -283,7 +285,7 @@ This project was developed using [Visual Studio Code Insiders](https://code.visu
 
 1. Log into [GitHub](https://github.com/ "link to GitHub website").
 
-2. Select the repositery to fork.
+2. Select the repository to fork.
 
 3. Click on "Fork".
 
@@ -297,13 +299,13 @@ The issues stated below couldn't be fixed on time before project submission.
 
 When testing the website the developer realised the following issues when checking the website on screens smaller than 700px:
 
-1.  Problem: on the home page the What is a Dreamcatcher section the text is not aligned (it slightly floats to the right and to the left).
+1.  Problem: on the home page the What is a Dreamcatcher section the text is not aligned (it slightly floats to the right and to the left) and the space between the section title and the text is too big.
 
 What is been tried to fix the issue: all the margins, paddings, widths and any option that might affect the positioning have been revised in all media queries and in the main CSS code with no luck. What the developer has learned from this issue is to keep the code as simple as possible in order to allow this developer, or any other developer that might need to, to fix the code in an easy and simple way. 
 
-2. Problem: In the order page, in "STEP.3" the color options are not completely responsive and do not break down in pairs (the text "color" with the related drop down menu).
+2. Problem: in the order page, in "STEP.3" the color options are not completely responsive and do not break down in pairs (the text "color" with the related drop down menu).
 
-What is been tried to fix the issue: the developer has tried to use Flex to control the positioning of the boxes with no luck. Flex is a great tool to make the website responsive but it has its limitations, more experimenting using Flex will be unvaluable on using in the future.
+What is been tried to fix the issue: the developer has tried to use Flex to control the positioning of the boxes with no luck. Flex is a great tool to make the website responsive but it has its limitations, more experimenting using Flex will be unvaluable on using it in the future.
 
 [Back to Top ⇧](#AdrianaCrafter) 
 
