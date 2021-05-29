@@ -293,12 +293,17 @@ This project was developed using [Visual Studio Code Insiders](https://code.visu
 
 ### Issues and Bugs
 
+The issues stated below couldn't be fixed on time before project submission.
+
 When testing the website the developer realised the following issues when checking the website on screens smaller than 700px:
 
-- On the home page the What is a Dreamcatcher section the text is not aligned (it slightly floats to the right and to the left).
-- In the order page, in "STEP.3" the color options are not completely responsive and do not break down in pairs (the tect "color" with the related drop down menu).
+1.  Problem: on the home page the What is a Dreamcatcher section the text is not aligned (it slightly floats to the right and to the left).
 
-This issues couldn't be fixed on time before project submission.
+What is been tried to fix the issue: all the margins, paddings, widths and any option that might affect the positioning have been revised in all media queries and in the main CSS code with no luck. What the developer has learned from this issue is to keep the code as simple as possible in order to allow this developer, or any other developer that might need to, to fix the code in an easy and simple way. 
+
+2. Problem: In the order page, in "STEP.3" the color options are not completely responsive and do not break down in pairs (the text "color" with the related drop down menu).
+
+What is been tried to fix the issue: the developer has tried to use Flex to control the positioning of the boxes with no luck. Flex is a great tool to make the website responsive but it has its limitations, more experimenting using Flex will be unvaluable on using in the future.
 
 [Back to Top ⇧](#AdrianaCrafter) 
 
