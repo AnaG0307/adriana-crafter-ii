@@ -137,7 +137,7 @@ In order to create a comprehensive and informative website, the developer worked
 
 In order to align the features defined in the strategy section, the scope was divided in two categories:
 
-- **Content Requirements**
+**Content Requirements**
 
 The user will be looking for:
 
@@ -148,7 +148,7 @@ The user will be looking for:
 - A way to personalise and purchase the product.
 - New works/information about the artist and her work.
 
-- **Functionality Requirements**
+**Functionality Requirements**
 
 The user will be able to:
 
