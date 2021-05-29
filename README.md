@@ -1,6 +1,6 @@
 # AdrianaCrafter
 
-![Website home page screenshot](assets/images/readme/Responsive.png)
+![Website home page screenshot](assets/images/readme/responsive.png)
 [View the page on github here](https://anag0307.github.io/adriana-crafter-ii/)
 
 ## Table of Contents
