@@ -1,7 +1,7 @@
 # AdrianaCrafter
 
 ![Website home page screenshot](assets/images/readme/Responsive.png)
-[View the page on github here]
+[View the page on github here](https://8000-olive-catshark-dxu91ex7.ws-eu08.gitpod.io/)
 
 ## Table of Contents
 
@@ -47,7 +47,7 @@
 
 ## Introduction
 
-This website is been built for Adriana Crafter, a local craft artist in Vilafranca del Penedes a small city near Barcelona in Spain. The primary focus of the site is to showcase and sell the dreamcatchers the artist does under request or through inspiration. The website should support the artist to expand her web-presence and the knowledge of her work beyond her local area. The artist currently works as a secondary teacher in a school and would like to increase her presence on the internet and to allow potential customers to see her craft work and potentially buy. In addition to this, this is the first of five projects of the developer´s portfolio. This particular project is aimed to demonstrate the developer's understanding of HTML5 and CSS.
+This website is been built for Adriana Crafter, a local craft artist in Vilafranca del Penedes a small city near Barcelona in Spain. The primary focus of the site is to showcase and sell the dreamcatchers the artist does under request or through inspiration. The website should support the artist to expand her web-presence and the knowledge of her work beyond her local area. The artist currently works as a secondary teacher in a school and would like to increase her presence on the internet and to allow potential customers to see her craft work and potentially buy as well as networking with other artist that might show an interest.
 
 [Back to Top ⇧](#AdrianaCrafter) 
 
@@ -257,6 +257,8 @@ Responsiveness testing [video on Youtube (external link)](https://www.youtube.co
 
 ### Deployment
 
+
+
 [Back to Top ⇧](#AdrianaCrafter) 
 
 ***
@@ -278,9 +280,9 @@ This issues couldn't be fixed on time before project submission.
 
 ### Main Languages Used
 
-- CSS
+- [CSS](https://en.wikipedia.org/wiki/CSS)
 
-- HTML
+- [HTML](https://en.wikipedia.org/wiki/HTML)
 
 ### Frameworks, Libraries and Programs Used
 
@@ -303,11 +305,11 @@ The below sites were consulted by the developer to better understand HTML and CS
 
 The sites consulted are:
 
-[w3Schools](https://www.w3schools.com/ "link to w3s")
+- [w3Schools](https://www.w3schools.com/ "link to w3s")
 
-[CSS Tricks](https://css-tricks.com/ "link to CSS Tricks")
+- [CSS Tricks](https://css-tricks.com/ "link to CSS Tricks")
 
-[Stack Overflow](https://stackoverflow.com "link to Stack Overflow")
+- [Stack Overflow](https://stackoverflow.com "link to Stack Overflow")
 
 ### Media
 
@@ -317,8 +319,9 @@ With the exception of the image sourced from [Unsplash](https://unsplash.com/ "l
 
 ### Acknowledgements
 
-- Thank you to my firneds and family who patiently checked the website every time I requested them to do and provided the best feedback and support they could.
-- Thank you to my mentor, Seun, for her help and support through my first steps as a developer on my first project.
+- Thank you to my friends and family who patiently checked the website every time I requested them to do and provided the best feedback and support they could.
 - Thank you to Adriana, the artist, who was as excited as myself to go through the project and created all the images and videos to make the site complete.
+- Thank you to my mentor, Seun, for her help and support through my first steps as a developer on my first project.
+
 
 [Back to Top ⇧](#AdrianaCrafter) 

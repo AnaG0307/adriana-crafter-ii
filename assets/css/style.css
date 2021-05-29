@@ -667,6 +667,14 @@ div.gallery {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
+
+    #video-section p {
+        margin: auto;
+        margin-bottom: 40px;
+        width: 80%;
+        height: 50%;
+        text-align: center;
+    }
 }
 
 /* Media queries for medium to bigger screens */
