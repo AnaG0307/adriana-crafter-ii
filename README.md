@@ -1,7 +1,7 @@
 # AdrianaCrafter
 
 ![Website home page screenshot](assets/images/readme/Responsive.png)
-[View the page on github here](https://8000-olive-catshark-dxu91ex7.ws-eu08.gitpod.io/)
+[View the page on github here](https://anag0307.github.io/adriana-crafter-ii/)
 
 ## Table of Contents
 
@@ -256,6 +256,31 @@ General testing [video on Youtube (external link)](https://www.youtube.com/watch
 Responsiveness testing [video on Youtube (external link)](https://www.youtube.com/watch?v=SLc_xx3SDB0 "Adriana Crafter responsiveness testing video"). The observations are as follows:
 
 ### Deployment
+
+This project was developed using [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/ "Link to Visual Studio Code site") and all commit/push commands were performed in the software's terminal.
+
+#### Github Pages
+
+1. Log into [GitHub](https://github.com/ "link to GitHub website").
+
+2. Select the repositery to deploy.
+
+3. Click on Settings tab.
+
+4. Scroll down to the GitHub Pages section under Source and open it, it will open in a different tab.
+
+5. Select "Branch: master" and then on the new dropdown menu that will appear select "/(root)" and click Save.
+
+6. The "Github Pages" section now contains a link to the deployed page.
+
+#### Forking the Repository
+
+1. Log into [GitHub](https://github.com/ "link to GitHub website").
+
+2. Select the repositery to fork.
+
+3. Click on "Fork".
+
 
 
 
