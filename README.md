@@ -254,6 +254,8 @@ General testing [video on Youtube (external link)](https://www.youtube.com/watch
 - Navigation bar sticks to the top of the page when scrolling down.
 
 Responsiveness testing [video on Youtube (external link)](https://www.youtube.com/watch?v=SLc_xx3SDB0 "Adriana Crafter responsiveness testing video"). The observations are as follows:
+- The website is responsive on medium screens, all the observations made above can be applied to this type of screens.
+- For small screens the responsiveness was satisfactory as well but with small issues that are described below in the "Issues and BugS" section. 
 
 ### Deployment
 
@@ -281,19 +283,16 @@ This project was developed using [Visual Studio Code Insiders](https://code.visu
 
 3. Click on "Fork".
 
-
-
-
 [Back to Top ⇧](#AdrianaCrafter) 
 
 ***
 
 ### Issues and Bugs
 
-When testing the website the developer realised the following:
+When testing the website the developer realised the following issues when checking the website on screens smaller than 700px:
 
-- On the home page the What is a dreamcatcher section text was not aligned (it slightly floated to the right and to the left)
-- In the order page, in "STEP.3" the options were not completely responsive to screens smaller than 700px.
+- On the home page the What is a Dreamcatcher section the text is not aligned (it slightly floats to the right and to the left).
+- In the order page, in "STEP.3" the color options are not completely responsive and do not break down in pairs (the tect "color" with the related drop down menu).
 
 This issues couldn't be fixed on time before project submission.
 
