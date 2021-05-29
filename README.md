@@ -63,10 +63,6 @@ This website is been built for Adriana Crafter, a local craft artist in Vilafran
 - Other craft artists.
 - Amateur craft community.
 
-[Back to Top ⇧](#AdrianaCrafter) 
-
-***
-
 ### User Stories
 #### New and potential users goals:
 - As a new follower, I want to easily navigate through the website to find the information easily and in an intuitive way.
@@ -256,6 +252,14 @@ General testing [video on Youtube (external link)](https://www.youtube.com/watch
 Responsiveness testing [video on Youtube (external link)](https://www.youtube.com/watch?v=SLc_xx3SDB0 "Adriana Crafter responsiveness testing video"). The observations are as follows:
 - The website is responsive on medium screens, all the observations made above can be applied to this type of screens.
 - For small screens the responsiveness was satisfactory as well but with small issues that are described below in the "Issues and BugS" section. 
+
+### Validation
+
+No errors have been found when checking HTML and CSS code. To validate the code the developer has used:
+
+- [Jigsaw](https://validator.w3.org/ "link to the validator website for CSS")
+
+- [W3C](https://validator.w3.org/#validate_by_input "link to the validator website for HTML")
 
 ### Deployment
 
