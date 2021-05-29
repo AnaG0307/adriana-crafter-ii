@@ -147,6 +147,7 @@ The user will be looking for:
 - A way to contact the artist directly.
 - A way to personalise and purchase the product.
 - New works/information about the artist and her work.
+
 - **Functionality Requirements**
 
 The user will be able to:
